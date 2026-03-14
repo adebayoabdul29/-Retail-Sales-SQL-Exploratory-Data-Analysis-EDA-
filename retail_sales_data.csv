@@ -403,7 +403,7 @@ CA-2013-108987,2013,9/9/2013,September,Second Class,AG-10675,Anna Gayman,Consume
 CA-2013-108987,2013,9/9/2013,September,Second Class,AG-10675,Anna Gayman,Consumer,Houston,Texas,77036,Central,TEC-AC-10000158,Technology,Accessories,57.584,2,0.7198
 CA-2011-113166,2011,12/24/2011,December,First Class,LF-17185,Luke Foster,Consumer,Miami,Florida,33180,South,OFF-PA-10001947,Office Supplies,Paper,9.568,2,3.4684
 CA-2011-155208,2011,4/16/2011,April,Standard Class,SP-20650,Stephanie Phelps,Corporate,Wilmington,North Carolina,28403,South,OFF-AR-10003478,Office Supplies,Art,39.072,6,9.768
-CA-2014-117933,2014,12/25/2014,December,Standard Class,RF-19840,Roy Französisch,Consumer,New York City,New York,10024,East,OFF-AP-10004249,Office Supplies,Appliances,35.91,3,9.6957
+CA-2014-117933,2014,12/25/2014,December,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,New York City,New York,10024,East,OFF-AP-10004249,Office Supplies,Appliances,35.91,3,9.6957
 CA-2014-117457,2014,12/9/2014,December,Standard Class,KH-16510,Keith Herrera,Consumer,San Francisco,California,94110,West,TEC-AC-10000158,Technology,Accessories,179.95,5,37.7895
 CA-2014-117457,2014,12/9/2014,December,Standard Class,KH-16510,Keith Herrera,Consumer,San Francisco,California,94110,West,TEC-CO-10004115,Technology,Copiers,1199.976,3,434.9913
 CA-2014-117457,2014,12/9/2014,December,Standard Class,KH-16510,Keith Herrera,Consumer,San Francisco,California,94110,West,OFF-PA-10003724,Office Supplies,Paper,27.15,5,13.3035
@@ -667,7 +667,7 @@ CA-2013-143308,2013,11/5/2013,November,Same Day,RC-19825,Roy Collins,Consumer,Lo
 CA-2014-132682,2014,6/9/2014,June,Second Class,TH-21235,Tiffany House,Corporate,Dallas,Texas,75081,Central,OFF-SU-10004231,Office Supplies,Supplies,23.76,3,2.079
 CA-2014-132682,2014,6/9/2014,June,Second Class,TH-21235,Tiffany House,Corporate,Dallas,Texas,75081,Central,OFF-PA-10000474,Office Supplies,Paper,85.056,3,28.7064
 CA-2014-132682,2014,6/9/2014,June,Second Class,TH-21235,Tiffany House,Corporate,Dallas,Texas,75081,Central,TEC-PH-10004042,Technology,Phones,381.576,3,28.6182
-CA-2011-156314,2011,12/24/2011,December,First Class,RP-19390,Resi Pölking,Consumer,Cleveland,Ohio,44105,East,FUR-FU-10003096,Furniture,Furnishings,30.36,5,8.7285
+CA-2011-156314,2011,12/24/2011,December,First Class,RP-19390,Resi PÃ¶lking,Consumer,Cleveland,Ohio,44105,East,FUR-FU-10003096,Furniture,Furnishings,30.36,5,8.7285
 US-2014-106663,2014,6/10/2014,June,Standard Class,MO-17800,Meg O'Connel,Home Office,Chicago,Illinois,60653,Central,FUR-FU-10002759,Furniture,Furnishings,23.976,3,-14.3856
 US-2014-106663,2014,6/10/2014,June,Standard Class,MO-17800,Meg O'Connel,Home Office,Chicago,Illinois,60653,Central,FUR-TA-10000688,Furniture,Tables,108.925,1,-71.8905
 US-2014-106663,2014,6/10/2014,June,Standard Class,MO-17800,Meg O'Connel,Home Office,Chicago,Illinois,60653,Central,OFF-PA-10002377,Office Supplies,Paper,36.352,8,11.36
@@ -747,7 +747,7 @@ US-2013-146710,2013,8/28/2013,August,Standard Class,SS-20875,Sung Shariari,Consu
 US-2013-146710,2013,8/28/2013,August,Standard Class,SS-20875,Sung Shariari,Consumer,Dallas,Texas,75220,Central,OFF-SU-10004261,Office Supplies,Supplies,55.168,4,6.2064
 CA-2011-124429,2011,5/27/2011,May,Same Day,MH-17785,Maya Herman,Corporate,San Diego,California,92105,West,FUR-TA-10002607,Furniture,Tables,567.12,10,-28.356
 CA-2011-124429,2011,5/27/2011,May,Same Day,MH-17785,Maya Herman,Corporate,San Diego,California,92105,West,OFF-ST-10001809,Office Supplies,Storage,359.32,4,7.1864
-CA-2013-150889,2013,3/21/2013,March,Second Class,PB-19105,Peter Bühler,Consumer,Evanston,Illinois,60201,Central,TEC-PH-10000004,Technology,Phones,11.992,1,0.8994
+CA-2013-150889,2013,3/21/2013,March,Second Class,PB-19105,Peter BÃ¼hler,Consumer,Evanston,Illinois,60201,Central,TEC-PH-10000004,Technology,Phones,11.992,1,0.8994
 CA-2014-126074,2014,10/3/2014,October,Standard Class,RF-19735,Roland Fjeld,Consumer,Trenton,Michigan,48183,Central,OFF-BI-10003638,Office Supplies,Binders,58.05,3,26.703
 CA-2014-126074,2014,10/3/2014,October,Standard Class,RF-19735,Roland Fjeld,Consumer,Trenton,Michigan,48183,Central,FUR-FU-10003577,Furniture,Furnishings,157.74,11,56.7864
 CA-2014-126074,2014,10/3/2014,October,Standard Class,RF-19735,Roland Fjeld,Consumer,Trenton,Michigan,48183,Central,OFF-AR-10003478,Office Supplies,Art,56.98,7,22.792
@@ -758,7 +758,7 @@ CA-2013-140928,2013,9/19/2013,September,Standard Class,NB-18655,Nona Balk,Corpor
 CA-2011-106803,2011,12/29/2011,December,Standard Class,DC-13285,Debra Catini,Consumer,Cottage Grove,Minnesota,55016,Central,OFF-ST-10002444,Office Supplies,Storage,24.56,2,6.8768
 CA-2011-106803,2011,12/29/2011,December,Standard Class,DC-13285,Debra Catini,Consumer,Cottage Grove,Minnesota,55016,Central,TEC-AC-10001267,Technology,Accessories,119.8,4,47.92
 CA-2014-117240,2014,7/24/2014,July,Standard Class,CP-12340,Christine Phan,Corporate,New York City,New York,10009,East,OFF-BI-10000848,Office Supplies,Binders,13.128,3,4.2666
-CA-2014-133333,2014,9/19/2014,September,Standard Class,BF-11020,Barry Französisch,Corporate,Green Bay,Wisconsin,54302,Central,OFF-PA-10002377,Office Supplies,Paper,22.72,4,10.224
+CA-2014-133333,2014,9/19/2014,September,Standard Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Green Bay,Wisconsin,54302,Central,OFF-PA-10002377,Office Supplies,Paper,22.72,4,10.224
 CA-2012-112319,2012,8/31/2012,August,Standard Class,AR-10510,Andrew Roberts,Consumer,Los Angeles,California,90004,West,OFF-PA-10003441,Office Supplies,Paper,58.32,9,27.9936
 CA-2014-126046,2014,11/4/2014,November,Standard Class,JC-16105,Julie Creighton,Corporate,Atlanta,Georgia,30318,South,OFF-LA-10004484,Office Supplies,Labels,12.39,3,5.6994
 CA-2012-114923,2012,2/8/2012,February,Standard Class,LH-17020,Lisa Hazard,Consumer,Columbus,Ohio,43229,East,TEC-PH-10003931,Technology,Phones,107.982,3,-26.9955
@@ -1101,8 +1101,8 @@ CA-2013-107216,2013,6/15/2013,June,First Class,PV-18985,Paul Van Hugh,Home Offic
 CA-2013-107216,2013,6/15/2013,June,First Class,PV-18985,Paul Van Hugh,Home Office,San Francisco,California,94122,West,FUR-FU-10000206,Furniture,Furnishings,8.73,3,4.1031
 CA-2013-107216,2013,6/15/2013,June,First Class,PV-18985,Paul Van Hugh,Home Office,San Francisco,California,94122,West,TEC-AC-10001013,Technology,Accessories,29.29,1,9.6657
 CA-2013-107216,2013,6/15/2013,June,First Class,PV-18985,Paul Van Hugh,Home Office,San Francisco,California,94122,West,OFF-AR-10002255,Office Supplies,Art,8.64,3,2.5056
-US-2014-145863,2014,4/22/2014,April,Standard Class,RP-19390,Resi Pölking,Consumer,Houston,Texas,77041,Central,OFF-BI-10004140,Office Supplies,Binders,2.694,3,-4.7145
-US-2014-145863,2014,4/22/2014,April,Standard Class,RP-19390,Resi Pölking,Consumer,Houston,Texas,77041,Central,OFF-BI-10002049,Office Supplies,Binders,2.934,3,-4.9878
+US-2014-145863,2014,4/22/2014,April,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Houston,Texas,77041,Central,OFF-BI-10004140,Office Supplies,Binders,2.694,3,-4.7145
+US-2014-145863,2014,4/22/2014,April,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Houston,Texas,77041,Central,OFF-BI-10002049,Office Supplies,Binders,2.934,3,-4.9878
 CA-2013-112340,2013,10/22/2013,October,Standard Class,NM-18520,Neoma Murray,Consumer,Riverside,California,92503,West,OFF-PA-10001892,Office Supplies,Paper,22.92,3,11.2308
 US-2013-110156,2013,11/20/2013,November,Standard Class,EH-13945,Eric Hoffmann,Consumer,Houston,Texas,77041,Central,OFF-ST-10000642,Office Supplies,Storage,100.704,6,-16.3644
 US-2013-110156,2013,11/20/2013,November,Standard Class,EH-13945,Eric Hoffmann,Consumer,Houston,Texas,77041,Central,FUR-FU-10000206,Furniture,Furnishings,2.328,2,-0.7566
@@ -1493,7 +1493,7 @@ CA-2014-151911,2014,5/1/2014,May,Second Class,DL-13495,Dionis Lloyd,Corporate,Ne
 CA-2014-166436,2014,11/25/2014,November,Standard Class,TS-21370,Todd Sumrall,Corporate,New York City,New York,10035,East,OFF-PA-10001838,Office Supplies,Paper,5.88,1,2.8812
 CA-2014-166436,2014,11/25/2014,November,Standard Class,TS-21370,Todd Sumrall,Corporate,New York City,New York,10035,East,FUR-CH-10000785,Furniture,Chairs,977.292,6,173.7408
 CA-2014-139661,2014,10/31/2014,October,Standard Class,JW-15220,Jane Waco,Corporate,Vancouver,Washington,98661,West,FUR-FU-10002885,Furniture,Furnishings,9.64,2,3.6632
-CA-2011-123925,2011,12/17/2011,December,Second Class,RF-19840,Roy Französisch,Consumer,Columbus,Georgia,31907,South,OFF-AR-10002952,Office Supplies,Art,40.05,3,11.214
+CA-2011-123925,2011,12/17/2011,December,Second Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Columbus,Georgia,31907,South,OFF-AR-10002952,Office Supplies,Art,40.05,3,11.214
 CA-2014-152485,2014,9/5/2014,September,Standard Class,JD-15790,John Dryer,Consumer,Coppell,Texas,75019,Central,OFF-AR-10003759,Office Supplies,Art,10.192,7,3.185
 CA-2014-152485,2014,9/5/2014,September,Standard Class,JD-15790,John Dryer,Consumer,Coppell,Texas,75019,Central,OFF-ST-10004950,Office Supplies,Storage,16.784,1,-0.2098
 CA-2014-152485,2014,9/5/2014,September,Standard Class,JD-15790,John Dryer,Consumer,Coppell,Texas,75019,Central,OFF-AR-10001940,Office Supplies,Art,13.12,5,3.772
@@ -1790,8 +1790,8 @@ CA-2012-154326,2012,2/15/2012,February,Standard Class,RP-19855,Roy Phan,Corporat
 CA-2012-154326,2012,2/15/2012,February,Standard Class,RP-19855,Roy Phan,Corporate,Kenosha,Wisconsin,53142,Central,TEC-PH-10000560,Technology,Phones,699.98,2,195.9944
 CA-2012-154326,2012,2/15/2012,February,Standard Class,RP-19855,Roy Phan,Corporate,Kenosha,Wisconsin,53142,Central,TEC-AC-10004568,Technology,Accessories,139.95,5,26.5905
 CA-2011-102008,2011,9/30/2011,September,Standard Class,RA-19915,Russell Applegate,Consumer,New York City,New York,10011,East,OFF-PA-10004092,Office Supplies,Paper,48.94,1,24.47
-CA-2011-120474,2011,12/1/2011,December,First Class,RP-19390,Resi Pölking,Consumer,Madison,Wisconsin,53711,Central,FUR-CH-10001854,Furniture,Chairs,2807.84,8,673.8816
-CA-2011-120474,2011,12/1/2011,December,First Class,RP-19390,Resi Pölking,Consumer,Madison,Wisconsin,53711,Central,OFF-AR-10000475,Office Supplies,Art,46.64,4,12.5928
+CA-2011-120474,2011,12/1/2011,December,First Class,RP-19390,Resi PÃ¶lking,Consumer,Madison,Wisconsin,53711,Central,FUR-CH-10001854,Furniture,Chairs,2807.84,8,673.8816
+CA-2011-120474,2011,12/1/2011,December,First Class,RP-19390,Resi PÃ¶lking,Consumer,Madison,Wisconsin,53711,Central,OFF-AR-10000475,Office Supplies,Art,46.64,4,12.5928
 CA-2011-104773,2011,12/8/2011,December,Standard Class,TB-21175,Thomas Boland,Corporate,Houston,Texas,77041,Central,OFF-ST-10000777,Office Supplies,Storage,60.416,2,6.0416
 CA-2013-140774,2013,9/6/2013,September,Standard Class,BE-11455,Brad Eason,Home Office,Olathe,Kansas,66062,Central,OFF-AR-10004022,Office Supplies,Art,107.94,3,26.985
 US-2014-139465,2014,8/28/2014,August,First Class,MR-17545,Mathew Reese,Home Office,New York City,New York,10024,East,OFF-ST-10002352,Office Supplies,Storage,63.84,8,16.5984
@@ -1861,7 +1861,7 @@ CA-2012-121608,2012,9/3/2012,September,First Class,JB-15400,Jennifer Braxton,Cor
 CA-2012-121608,2012,9/3/2012,September,First Class,JB-15400,Jennifer Braxton,Corporate,Bristol,Connecticut,6010,East,TEC-PH-10004959,Technology,Phones,100.49,1,25.1225
 US-2014-121251,2014,3/27/2014,March,First Class,GM-14440,Gary McGarr,Consumer,New York City,New York,10009,East,FUR-BO-10001918,Furniture,Bookcases,257.568,2,-28.9764
 US-2014-121251,2014,3/27/2014,March,First Class,GM-14440,Gary McGarr,Consumer,New York City,New York,10009,East,TEC-PH-10004896,Technology,Phones,119.96,4,33.5888
-CA-2011-151078,2011,11/12/2011,November,Same Day,RF-19840,Roy Französisch,Consumer,San Antonio,Texas,78207,Central,OFF-ST-10001328,Office Supplies,Storage,49.632,4,4.9632
+CA-2011-151078,2011,11/12/2011,November,Same Day,RF-19840,Roy FranzÃ¶sisch,Consumer,San Antonio,Texas,78207,Central,OFF-ST-10001328,Office Supplies,Storage,49.632,4,4.9632
 US-2013-100839,2013,10/14/2013,October,Standard Class,NC-18625,Noah Childs,Corporate,Aurora,Colorado,80013,West,FUR-TA-10004575,Furniture,Tables,727.45,5,-465.568
 US-2013-100839,2013,10/14/2013,October,Standard Class,NC-18625,Noah Childs,Corporate,Aurora,Colorado,80013,West,FUR-FU-10001617,Furniture,Furnishings,24.96,3,4.368
 US-2014-116659,2014,11/13/2014,November,Same Day,NG-18355,Nat Gilpin,Corporate,Newark,Ohio,43055,East,TEC-PH-10002824,Technology,Phones,370.782,3,-92.6955
@@ -2361,7 +2361,7 @@ US-2011-148838,2011,3/17/2011,March,Standard Class,CP-12340,Christine Phan,Corpo
 US-2011-148838,2011,3/17/2011,March,Standard Class,CP-12340,Christine Phan,Corporate,New York City,New York,10024,East,FUR-TA-10004175,Furniture,Tables,613.908,3,-122.7816
 US-2011-148838,2011,3/17/2011,March,Standard Class,CP-12340,Christine Phan,Corporate,New York City,New York,10024,East,OFF-PA-10002960,Office Supplies,Paper,34.86,7,16.3842
 US-2011-148838,2011,3/17/2011,March,Standard Class,CP-12340,Christine Phan,Corporate,New York City,New York,10024,East,OFF-PA-10000919,Office Supplies,Paper,155.04,4,75.9696
-CA-2014-136497,2014,4/17/2014,April,Standard Class,RF-19840,Roy Französisch,Consumer,Columbus,Ohio,43229,East,OFF-BI-10001553,Office Supplies,Binders,13.71,5,-10.054
+CA-2014-136497,2014,4/17/2014,April,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Columbus,Ohio,43229,East,OFF-BI-10001553,Office Supplies,Binders,13.71,5,-10.054
 US-2013-108637,2013,3/14/2013,March,Standard Class,AB-10060,Adam Bellavance,Home Office,Waynesboro,Virginia,22980,South,FUR-FU-10004864,Furniture,Furnishings,127.88,2,40.9216
 US-2013-108637,2013,3/14/2013,March,Standard Class,AB-10060,Adam Bellavance,Home Office,Waynesboro,Virginia,22980,South,OFF-AP-10004540,Office Supplies,Appliances,160.32,2,44.8896
 US-2013-108637,2013,3/14/2013,March,Standard Class,AB-10060,Adam Bellavance,Home Office,Waynesboro,Virginia,22980,South,OFF-BI-10004965,Office Supplies,Binders,46,4,20.7
@@ -2370,10 +2370,10 @@ CA-2014-123659,2014,2/11/2014,February,First Class,MN-17935,Michael Nguyen,Consu
 US-2013-129469,2013,9/24/2013,September,Standard Class,KL-16555,Kelly Lampkin,Corporate,Fairfield,Ohio,45014,East,FUR-FU-10002298,Furniture,Furnishings,532.704,6,-26.6352
 US-2013-129469,2013,9/24/2013,September,Standard Class,KL-16555,Kelly Lampkin,Corporate,Fairfield,Ohio,45014,East,OFF-AR-10000315,Office Supplies,Art,4.912,2,0.307
 CA-2014-155152,2014,7/8/2014,July,Second Class,MP-17965,Michael Paige,Corporate,Warwick,Rhode Island,2886,East,TEC-AC-10004353,Technology,Accessories,252,4,93.24
-CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry Französisch,Corporate,Aurora,Illinois,60505,Central,FUR-FU-10004973,Furniture,Furnishings,60.288,8,-27.1296
-CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry Französisch,Corporate,Aurora,Illinois,60505,Central,OFF-FA-10000936,Office Supplies,Fasteners,2.632,1,0.8225
-CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry Französisch,Corporate,Aurora,Illinois,60505,Central,OFF-PA-10001609,Office Supplies,Paper,23.688,9,7.6986
-CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry Französisch,Corporate,Aurora,Illinois,60505,Central,FUR-CH-10000785,Furniture,Chairs,253.372,2,-14.4784
+CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Aurora,Illinois,60505,Central,FUR-FU-10004973,Furniture,Furnishings,60.288,8,-27.1296
+CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Aurora,Illinois,60505,Central,OFF-FA-10000936,Office Supplies,Fasteners,2.632,1,0.8225
+CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Aurora,Illinois,60505,Central,OFF-PA-10001609,Office Supplies,Paper,23.688,9,7.6986
+CA-2013-159940,2013,7/8/2013,July,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Aurora,Illinois,60505,Central,FUR-CH-10000785,Furniture,Chairs,253.372,2,-14.4784
 CA-2014-119669,2014,1/25/2014,January,Standard Class,TP-21130,Theone Pippenger,Consumer,Smyrna,Georgia,30080,South,OFF-FA-10000053,Office Supplies,Fasteners,5.67,3,0.1134
 US-2011-164616,2011,8/19/2011,August,Second Class,MS-17770,Maxwell Schwartz,Consumer,Columbus,Ohio,43229,East,OFF-BI-10001718,Office Supplies,Binders,76.776,4,-58.8616
 US-2011-164616,2011,8/19/2011,August,Second Class,MS-17770,Maxwell Schwartz,Consumer,Columbus,Ohio,43229,East,OFF-SU-10004768,Office Supplies,Supplies,9.184,2,1.148
@@ -2515,7 +2515,7 @@ CA-2014-155089,2014,12/3/2014,December,Standard Class,DB-12910,Daniel Byrd,Home 
 CA-2013-124506,2013,11/12/2013,November,Standard Class,BB-11545,Brenda Bowman,Corporate,Chicago,Illinois,60623,Central,TEC-AC-10003280,Technology,Accessories,95.968,4,1.1996
 CA-2013-124506,2013,11/12/2013,November,Standard Class,BB-11545,Brenda Bowman,Corporate,Chicago,Illinois,60623,Central,FUR-CH-10004540,Furniture,Chairs,47.992,2,-2.0568
 CA-2011-106572,2011,9/5/2011,September,Standard Class,NP-18700,Nora Preis,Consumer,Bowling Green,Ohio,43402,East,OFF-ST-10000585,Office Supplies,Storage,264.32,2,19.824
-CA-2011-128888,2011,11/15/2011,November,Standard Class,PB-19105,Peter Bühler,Consumer,Houston,Texas,77095,Central,OFF-EN-10003001,Office Supplies,Envelopes,604.656,9,204.0714
+CA-2011-128888,2011,11/15/2011,November,Standard Class,PB-19105,Peter BÃ¼hler,Consumer,Houston,Texas,77095,Central,OFF-EN-10003001,Office Supplies,Envelopes,604.656,9,204.0714
 CA-2014-123134,2014,5/3/2014,May,Standard Class,DW-13585,Dorothy Wardle,Corporate,Westfield,New Jersey,7090,East,FUR-FU-10003975,Furniture,Furnishings,129.93,3,12.993
 CA-2013-124352,2013,10/16/2013,October,Standard Class,CD-12790,Cynthia Delaney,Home Office,Oklahoma City,Oklahoma,73120,Central,OFF-LA-10004559,Office Supplies,Labels,20.16,7,9.8784
 CA-2013-124352,2013,10/16/2013,October,Standard Class,CD-12790,Cynthia Delaney,Home Office,Oklahoma City,Oklahoma,73120,Central,OFF-LA-10003223,Office Supplies,Labels,29.46,6,14.4354
@@ -2702,7 +2702,7 @@ CA-2011-145317,2011,3/18/2011,March,Standard Class,SM-20320,Sean Miller,Home Off
 CA-2011-145317,2011,3/18/2011,March,Standard Class,SM-20320,Sean Miller,Home Office,Jacksonville,Florida,32216,South,FUR-FU-10004270,Furniture,Furnishings,30.768,2,8.0766
 CA-2011-145317,2011,3/18/2011,March,Standard Class,SM-20320,Sean Miller,Home Office,Jacksonville,Florida,32216,South,OFF-FA-10003112,Office Supplies,Fasteners,18.936,3,5.9175
 CA-2011-145317,2011,3/18/2011,March,Standard Class,SM-20320,Sean Miller,Home Office,Jacksonville,Florida,32216,South,FUR-FU-10001986,Furniture,Furnishings,122.352,3,15.294
-CA-2011-143413,2011,5/24/2011,May,Standard Class,RP-19390,Resi Pölking,Consumer,Baltimore,Maryland,21215,East,OFF-PA-10002319,Office Supplies,Paper,116.28,3,56.9772
+CA-2011-143413,2011,5/24/2011,May,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Baltimore,Maryland,21215,East,OFF-PA-10002319,Office Supplies,Paper,116.28,3,56.9772
 CA-2014-156818,2014,7/12/2014,July,Second Class,JD-16015,Joy Daniels,Consumer,New York City,New York,10009,East,TEC-AC-10002323,Technology,Accessories,132.6,6,17.238
 CA-2014-155873,2014,6/17/2014,June,Standard Class,AB-10255,Alejandro Ballentine,Home Office,Carlsbad,New Mexico,88220,West,OFF-SU-10001165,Office Supplies,Supplies,16.68,2,4.3368
 CA-2014-155873,2014,6/17/2014,June,Standard Class,AB-10255,Alejandro Ballentine,Home Office,Carlsbad,New Mexico,88220,West,OFF-PA-10001246,Office Supplies,Paper,19.44,3,9.3312
@@ -3445,7 +3445,7 @@ CA-2014-168858,2014,11/20/2014,November,Standard Class,JD-16150,Justin Deggeller
 CA-2014-168858,2014,11/20/2014,November,Standard Class,JD-16150,Justin Deggeller,Corporate,New York City,New York,10011,East,OFF-AP-10003849,Office Supplies,Appliances,2504.74,7,626.185
 CA-2013-116344,2013,7/30/2013,July,Standard Class,JO-15145,Jack O'Briant,Corporate,Philadelphia,Pennsylvania,19140,East,OFF-ST-10001713,Office Supplies,Storage,84.784,2,-16.9568
 CA-2012-131779,2012,6/12/2012,June,Standard Class,LE-16810,Laurel Elliston,Consumer,Newark,Delaware,19711,East,OFF-ST-10001505,Office Supplies,Storage,29.9,5,5.083
-CA-2013-158869,2013,8/7/2013,August,First Class,AH-10690,Anna Häberlin,Corporate,New York City,New York,10024,East,OFF-PA-10000474,Office Supplies,Paper,70.88,2,33.3136
+CA-2013-158869,2013,8/7/2013,August,First Class,AH-10690,Anna HÃ¤berlin,Corporate,New York City,New York,10024,East,OFF-PA-10000474,Office Supplies,Paper,70.88,2,33.3136
 CA-2014-102554,2014,6/12/2014,June,Standard Class,KN-16705,Kristina Nunn,Home Office,Auburn,Alabama,36830,South,OFF-AR-10001919,Office Supplies,Art,3.76,2,1.0904
 CA-2013-162614,2013,10/8/2013,October,Standard Class,TB-21250,Tim Brockman,Consumer,Los Angeles,California,90049,West,OFF-BI-10004001,Office Supplies,Binders,27.264,2,8.8608
 CA-2011-168592,2011,9/8/2011,September,Standard Class,DP-13390,Dennis Pardue,Home Office,San Francisco,California,94110,West,OFF-AP-10004785,Office Supplies,Appliances,56.65,5,24.3595
@@ -3805,12 +3805,12 @@ CA-2013-156503,2013,10/15/2013,October,Standard Class,NC-18415,Nathan Cano,Consu
 CA-2013-156503,2013,10/15/2013,October,Standard Class,NC-18415,Nathan Cano,Consumer,Jacksonville,North Carolina,28540,South,OFF-SU-10000946,Office Supplies,Supplies,12.768,2,1.4364
 CA-2013-156503,2013,10/15/2013,October,Standard Class,NC-18415,Nathan Cano,Consumer,Jacksonville,North Carolina,28540,South,OFF-EN-10001335,Office Supplies,Envelopes,35.008,4,13.128
 CA-2013-156503,2013,10/15/2013,October,Standard Class,NC-18415,Nathan Cano,Consumer,Jacksonville,North Carolina,28540,South,OFF-PA-10002377,Office Supplies,Paper,39.152,1,14.682
-CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna Häberlin,Corporate,Plantation,Florida,33317,South,OFF-AR-10001246,Office Supplies,Art,11.76,5,1.323
-CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna Häberlin,Corporate,Plantation,Florida,33317,South,OFF-BI-10003291,Office Supplies,Binders,5.238,2,-4.0158
-CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna Häberlin,Corporate,Plantation,Florida,33317,South,OFF-BI-10002799,Office Supplies,Binders,4.662,3,-3.7296
-CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna Häberlin,Corporate,Plantation,Florida,33317,South,FUR-CH-10003298,Furniture,Chairs,523.92,5,-72.039
-CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna Häberlin,Corporate,Plantation,Florida,33317,South,TEC-PH-10000441,Technology,Phones,100.792,1,10.0792
-CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna Häberlin,Corporate,Plantation,Florida,33317,South,FUR-CH-10004477,Furniture,Chairs,146.136,3,16.4403
+CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Plantation,Florida,33317,South,OFF-AR-10001246,Office Supplies,Art,11.76,5,1.323
+CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Plantation,Florida,33317,South,OFF-BI-10003291,Office Supplies,Binders,5.238,2,-4.0158
+CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Plantation,Florida,33317,South,OFF-BI-10002799,Office Supplies,Binders,4.662,3,-3.7296
+CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Plantation,Florida,33317,South,FUR-CH-10003298,Furniture,Chairs,523.92,5,-72.039
+CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Plantation,Florida,33317,South,TEC-PH-10000441,Technology,Phones,100.792,1,10.0792
+CA-2012-113628,2012,11/12/2012,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Plantation,Florida,33317,South,FUR-CH-10004477,Furniture,Chairs,146.136,3,16.4403
 CA-2014-147753,2014,3/6/2014,March,Same Day,PK-19075,Pete Kriz,Consumer,Milwaukee,Wisconsin,53209,Central,OFF-LA-10003537,Office Supplies,Labels,25.06,2,11.7782
 CA-2012-103961,2012,11/5/2012,November,Standard Class,NG-18430,Nathan Gelder,Consumer,Quincy,Illinois,62301,Central,OFF-LA-10004484,Office Supplies,Labels,19.824,6,6.4428
 CA-2013-152471,2013,7/9/2013,July,Same Day,ZD-21925,Zuschuss Donatelli,Consumer,Jacksonville,Florida,32216,South,TEC-PH-10002824,Technology,Phones,823.96,5,51.4975
@@ -4235,7 +4235,7 @@ CA-2014-100223,2014,7/6/2014,July,Standard Class,LS-16945,Linda Southworth,Corpo
 CA-2014-100223,2014,7/6/2014,July,Standard Class,LS-16945,Linda Southworth,Corporate,Dallas,Texas,75220,Central,OFF-BI-10004492,Office Supplies,Binders,6.316,1,-10.4214
 CA-2011-168823,2011,9/21/2011,September,First Class,MA-17560,Matt Abelman,Home Office,Philadelphia,Pennsylvania,19143,East,OFF-PA-10004000,Office Supplies,Paper,11.352,3,4.1151
 CA-2011-168823,2011,9/21/2011,September,First Class,MA-17560,Matt Abelman,Home Office,Philadelphia,Pennsylvania,19143,East,OFF-LA-10004425,Office Supplies,Labels,20.808,9,7.0227
-CA-2013-162404,2013,7/24/2013,July,Standard Class,NF-18475,Neil Französisch,Home Office,Rockford,Illinois,61107,Central,OFF-BI-10000948,Office Supplies,Binders,11.416,4,-18.8364
+CA-2013-162404,2013,7/24/2013,July,Standard Class,NF-18475,Neil FranzÃ¶sisch,Home Office,Rockford,Illinois,61107,Central,OFF-BI-10000948,Office Supplies,Binders,11.416,4,-18.8364
 CA-2014-104024,2014,8/30/2014,August,Second Class,MD-17860,Michael Dominguez,Corporate,Philadelphia,Pennsylvania,19134,East,OFF-AR-10001972,Office Supplies,Art,9.408,7,0.7056
 CA-2014-147144,2014,3/27/2014,March,First Class,MZ-17335,Maria Zettner,Home Office,Seattle,Washington,98105,West,OFF-AR-10004587,Office Supplies,Art,19.83,1,5.949
 CA-2014-158673,2014,12/30/2014,December,Standard Class,KB-16600,Ken Brennan,Corporate,Grand Rapids,Michigan,49505,Central,OFF-PA-10000994,Office Supplies,Paper,209.7,2,100.656
@@ -4395,7 +4395,7 @@ CA-2013-108868,2013,9/9/2013,September,Standard Class,KB-16585,Ken Black,Corpora
 CA-2013-108868,2013,9/9/2013,September,Standard Class,KB-16585,Ken Black,Corporate,Dallas,Texas,75081,Central,TEC-PH-10000923,Technology,Phones,59.96,5,21.7355
 CA-2011-142965,2011,7/20/2011,July,Same Day,SW-20245,Scot Wooten,Consumer,Springfield,Ohio,45503,East,OFF-ST-10002583,Office Supplies,Storage,25.984,1,-5.1968
 CA-2011-142965,2011,7/20/2011,July,Same Day,SW-20245,Scot Wooten,Consumer,Springfield,Ohio,45503,East,OFF-BI-10000977,Office Supplies,Binders,27.36,3,-21.888
-CA-2013-148740,2013,11/16/2013,November,Standard Class,AH-10690,Anna Häberlin,Corporate,San Diego,California,92024,West,TEC-PH-10002549,Technology,Phones,361.376,2,27.1032
+CA-2013-148740,2013,11/16/2013,November,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,San Diego,California,92024,West,TEC-PH-10002549,Technology,Phones,361.376,2,27.1032
 US-2011-138758,2011,7/7/2011,July,Standard Class,JL-15835,John Lee,Consumer,Philadelphia,Pennsylvania,19120,East,FUR-CH-10002880,Furniture,Chairs,172.186,2,-46.7362
 US-2011-138758,2011,7/7/2011,July,Standard Class,JL-15835,John Lee,Consumer,Philadelphia,Pennsylvania,19120,East,FUR-FU-10003039,Furniture,Furnishings,69.008,2,12.0764
 CA-2013-131737,2013,3/18/2013,March,Same Day,GZ-14470,Gary Zandusky,Consumer,Columbia,Maryland,21044,East,OFF-EN-10003055,Office Supplies,Envelopes,199.9,5,89.955
@@ -5243,9 +5243,9 @@ CA-2013-116561,2013,9/12/2013,September,Standard Class,EB-14110,Eugene Barchas,C
 CA-2013-110730,2013,9/24/2013,September,Second Class,CM-11815,Candace McMahon,Corporate,Seattle,Washington,98115,West,OFF-SU-10004737,Office Supplies,Supplies,13.68,2,3.6936
 CA-2014-146367,2014,8/5/2014,August,Standard Class,HM-14860,Harry Marie,Corporate,Carrollton,Texas,75007,Central,OFF-BI-10002827,Office Supplies,Binders,3.318,3,-5.6406
 CA-2013-149454,2013,7/26/2013,July,First Class,KM-16375,Katherine Murray,Home Office,Arlington,Virginia,22204,South,OFF-BI-10003694,Office Supplies,Binders,10.44,1,4.8024
-CA-2013-156265,2013,8/3/2013,August,Second Class,BF-11020,Barry Französisch,Corporate,Los Angeles,California,90032,West,FUR-TA-10001691,Furniture,Tables,136.464,2,15.3522
-CA-2013-156265,2013,8/3/2013,August,Second Class,BF-11020,Barry Französisch,Corporate,Los Angeles,California,90032,West,TEC-PH-10001918,Technology,Phones,333.576,3,33.3576
-CA-2013-156265,2013,8/3/2013,August,Second Class,BF-11020,Barry Französisch,Corporate,Los Angeles,California,90032,West,OFF-BI-10000285,Office Supplies,Binders,12.544,2,4.704
+CA-2013-156265,2013,8/3/2013,August,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Los Angeles,California,90032,West,FUR-TA-10001691,Furniture,Tables,136.464,2,15.3522
+CA-2013-156265,2013,8/3/2013,August,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Los Angeles,California,90032,West,TEC-PH-10001918,Technology,Phones,333.576,3,33.3576
+CA-2013-156265,2013,8/3/2013,August,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Los Angeles,California,90032,West,OFF-BI-10000285,Office Supplies,Binders,12.544,2,4.704
 US-2012-168914,2012,5/21/2012,May,Standard Class,JE-15745,Joel Eaton,Consumer,Frankfort,Illinois,60423,Central,OFF-AP-10000358,Office Supplies,Appliances,20.768,8,-52.9584
 US-2014-110989,2014,11/4/2014,November,Second Class,EJ-14155,Eva Jacobs,Consumer,Seattle,Washington,98105,West,TEC-AC-10002345,Technology,Accessories,43.5,3,10.875
 CA-2012-106215,2012,4/16/2012,April,Standard Class,BN-11470,Brad Norvell,Corporate,Philadelphia,Pennsylvania,19143,East,OFF-FA-10001229,Office Supplies,Fasteners,12.576,4,4.0872
@@ -5299,9 +5299,9 @@ CA-2014-108791,2014,7/28/2014,July,Standard Class,TM-21490,Tony Molinari,Consume
 CA-2014-108791,2014,7/28/2014,July,Standard Class,TM-21490,Tony Molinari,Consumer,Yonkers,New York,10701,East,TEC-PH-10002660,Technology,Phones,543.92,8,135.98
 CA-2013-106656,2013,9/24/2013,September,First Class,DV-13045,Darrin Van Huff,Corporate,San Diego,California,92037,West,OFF-EN-10001509,Office Supplies,Envelopes,4.08,2,1.9176
 CA-2013-106656,2013,9/24/2013,September,First Class,DV-13045,Darrin Van Huff,Corporate,San Diego,California,92037,West,OFF-LA-10003148,Office Supplies,Labels,18.9,3,8.694
-CA-2013-113831,2013,5/31/2013,May,Standard Class,AH-10690,Anna Häberlin,Corporate,Springfield,Virginia,22153,South,FUR-TA-10002645,Furniture,Tables,2275.5,10,386.835
-CA-2013-113831,2013,5/31/2013,May,Standard Class,AH-10690,Anna Häberlin,Corporate,Springfield,Virginia,22153,South,TEC-AC-10003033,Technology,Accessories,1979.7,6,653.301
-CA-2013-113831,2013,5/31/2013,May,Standard Class,AH-10690,Anna Häberlin,Corporate,Springfield,Virginia,22153,South,OFF-LA-10001297,Office Supplies,Labels,62.1,6,29.808
+CA-2013-113831,2013,5/31/2013,May,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Springfield,Virginia,22153,South,FUR-TA-10002645,Furniture,Tables,2275.5,10,386.835
+CA-2013-113831,2013,5/31/2013,May,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Springfield,Virginia,22153,South,TEC-AC-10003033,Technology,Accessories,1979.7,6,653.301
+CA-2013-113831,2013,5/31/2013,May,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Springfield,Virginia,22153,South,OFF-LA-10001297,Office Supplies,Labels,62.1,6,29.808
 US-2011-139500,2011,11/16/2011,November,Standard Class,AB-10165,Alan Barnes,Consumer,Decatur,Illinois,62521,Central,FUR-CH-10002017,Furniture,Chairs,37.296,2,-1.0656
 US-2011-166310,2011,9/21/2011,September,First Class,JS-15940,Joni Sundaresam,Home Office,Garland,Texas,75043,Central,FUR-FU-10001546,Furniture,Furnishings,8.544,2,-7.476
 US-2013-168410,2013,2/21/2013,February,Standard Class,BV-11245,Benjamin Venier,Corporate,Oceanside,New York,11572,East,FUR-FU-10000629,Furniture,Furnishings,68.95,5,28.959
@@ -5486,10 +5486,10 @@ CA-2014-105487,2014,10/9/2014,October,Standard Class,CS-12250,Chris Selesnick,Co
 CA-2014-148999,2014,1/31/2014,January,Standard Class,EB-13870,Emily Burns,Consumer,Miami,Florida,33142,South,FUR-CH-10002044,Furniture,Chairs,419.136,4,-68.1096
 CA-2011-107573,2011,12/12/2011,December,Standard Class,PB-19150,Philip Brown,Consumer,Miami,Florida,33178,South,OFF-EN-10001099,Office Supplies,Envelopes,23.472,3,7.6284
 CA-2012-156608,2012,10/24/2012,October,Standard Class,MT-18070,Michelle Tran,Home Office,San Antonio,Texas,78207,Central,OFF-BI-10004140,Office Supplies,Binders,3.592,4,-6.286
-CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry Französisch,Corporate,Jacksonville,Florida,32216,South,TEC-PH-10004897,Technology,Phones,23.976,3,-5.6943
-CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry Französisch,Corporate,Jacksonville,Florida,32216,South,OFF-LA-10000262,Office Supplies,Labels,6.264,3,2.0358
-CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry Französisch,Corporate,Jacksonville,Florida,32216,South,OFF-AP-10002222,Office Supplies,Appliances,20.808,3,1.8207
-CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry Französisch,Corporate,Jacksonville,Florida,32216,South,FUR-CH-10003774,Furniture,Chairs,218.352,3,-19.1058
+CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Jacksonville,Florida,32216,South,TEC-PH-10004897,Technology,Phones,23.976,3,-5.6943
+CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Jacksonville,Florida,32216,South,OFF-LA-10000262,Office Supplies,Labels,6.264,3,2.0358
+CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Jacksonville,Florida,32216,South,OFF-AP-10002222,Office Supplies,Appliances,20.808,3,1.8207
+CA-2014-134495,2014,4/2/2014,April,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Jacksonville,Florida,32216,South,FUR-CH-10003774,Furniture,Chairs,218.352,3,-19.1058
 CA-2014-164098,2014,1/27/2014,January,First Class,CG-12520,Claire Gute,Consumer,Houston,Texas,77070,Central,OFF-ST-10000615,Office Supplies,Storage,18.16,2,1.816
 CA-2011-105249,2011,11/28/2011,November,Same Day,DH-13675,Duane Huffman,Home Office,San Francisco,California,94122,West,OFF-SU-10001225,Office Supplies,Supplies,7.36,2,0.1472
 CA-2011-105249,2011,11/28/2011,November,Same Day,DH-13675,Duane Huffman,Home Office,San Francisco,California,94122,West,OFF-LA-10002043,Office Supplies,Labels,41.4,4,19.872
@@ -5575,8 +5575,8 @@ CA-2011-151162,2011,12/5/2011,December,Standard Class,EA-14035,Erin Ashbrook,Cor
 CA-2011-151162,2011,12/5/2011,December,Standard Class,EA-14035,Erin Ashbrook,Corporate,Columbus,Ohio,43229,East,OFF-PA-10003036,Office Supplies,Paper,17.472,3,5.6784
 CA-2011-151162,2011,12/5/2011,December,Standard Class,EA-14035,Erin Ashbrook,Corporate,Columbus,Ohio,43229,East,TEC-PH-10001870,Technology,Phones,36.738,1,-9.1845
 CA-2011-151162,2011,12/5/2011,December,Standard Class,EA-14035,Erin Ashbrook,Corporate,Columbus,Ohio,43229,East,TEC-PH-10001809,Technology,Phones,179.94,2,-44.985
-CA-2013-136686,2013,12/13/2013,December,Standard Class,RF-19840,Roy Französisch,Consumer,Pasadena,California,91104,West,FUR-FU-10004864,Furniture,Furnishings,383.64,6,122.7648
-CA-2013-136686,2013,12/13/2013,December,Standard Class,RF-19840,Roy Französisch,Consumer,Pasadena,California,91104,West,OFF-AP-10002350,Office Supplies,Appliances,56.52,3,15.8256
+CA-2013-136686,2013,12/13/2013,December,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Pasadena,California,91104,West,FUR-FU-10004864,Furniture,Furnishings,383.64,6,122.7648
+CA-2013-136686,2013,12/13/2013,December,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Pasadena,California,91104,West,OFF-AP-10002350,Office Supplies,Appliances,56.52,3,15.8256
 CA-2014-137498,2014,9/10/2014,September,Second Class,LC-17050,Liz Carlisle,Consumer,Los Angeles,California,90004,West,OFF-AR-10003829,Office Supplies,Art,6.56,2,1.9024
 CA-2014-137498,2014,9/10/2014,September,Second Class,LC-17050,Liz Carlisle,Consumer,Los Angeles,California,90004,West,FUR-CH-10003833,Furniture,Chairs,243.92,5,-15.245
 CA-2014-137498,2014,9/10/2014,September,Second Class,LC-17050,Liz Carlisle,Consumer,Los Angeles,California,90004,West,OFF-PA-10000143,Office Supplies,Paper,47.52,9,22.8096
@@ -5642,7 +5642,7 @@ CA-2011-154893,2011,12/21/2011,December,Standard Class,GM-14440,Gary McGarr,Cons
 CA-2011-147900,2011,9/23/2011,September,Standard Class,JK-15640,Jim Kriz,Home Office,Lakewood,Ohio,44107,East,OFF-PA-10003063,Office Supplies,Paper,28.8,9,10.08
 CA-2014-106355,2014,4/3/2014,April,First Class,AT-10435,Alyssa Tate,Home Office,Meriden,Connecticut,6450,East,OFF-AR-10000246,Office Supplies,Art,11.12,4,2.8912
 CA-2013-127985,2013,4/2/2013,April,Second Class,DB-12910,Daniel Byrd,Home Office,Columbus,Georgia,31907,South,FUR-FU-10003274,Furniture,Furnishings,7.04,4,3.0976
-CA-2012-166604,2012,5/15/2012,May,Second Class,AH-10690,Anna Häberlin,Corporate,Roswell,Georgia,30076,South,OFF-EN-10004147,Office Supplies,Envelopes,17.94,3,8.7906
+CA-2012-166604,2012,5/15/2012,May,Second Class,AH-10690,Anna HÃ¤berlin,Corporate,Roswell,Georgia,30076,South,OFF-EN-10004147,Office Supplies,Envelopes,17.94,3,8.7906
 CA-2014-120719,2014,3/24/2014,March,First Class,SJ-20125,Sanjit Jacobs,Home Office,Seattle,Washington,98105,West,OFF-BI-10002103,Office Supplies,Binders,34.76,5,11.297
 CA-2014-127117,2014,4/15/2014,April,Standard Class,HM-14860,Harry Marie,Corporate,Morristown,New Jersey,7960,East,FUR-FU-10004018,Furniture,Furnishings,74.45,5,20.1015
 CA-2012-104241,2012,1/4/2012,January,Standard Class,AG-10495,Andrew Gjertsen,Corporate,Alexandria,Virginia,22304,South,FUR-FU-10001473,Furniture,Furnishings,192.22,14,69.1992
@@ -5704,7 +5704,7 @@ CA-2013-125661,2013,11/25/2013,November,First Class,CA-12055,Cathy Armstrong,Hom
 US-2011-123519,2011,12/14/2011,December,Standard Class,SS-20875,Sung Shariari,Consumer,Marion,Ohio,43302,East,OFF-AR-10003829,Office Supplies,Art,2.624,1,0.2952
 US-2011-123519,2011,12/14/2011,December,Standard Class,SS-20875,Sung Shariari,Consumer,Marion,Ohio,43302,East,FUR-TA-10002645,Furniture,Tables,136.53,1,-52.3365
 US-2011-123519,2011,12/14/2011,December,Standard Class,SS-20875,Sung Shariari,Consumer,Marion,Ohio,43302,East,TEC-AC-10003033,Technology,Accessories,263.96,1,42.8935
-CA-2011-155593,2011,11/3/2011,November,Standard Class,RP-19390,Resi Pölking,Consumer,Fairfield,Connecticut,6824,East,OFF-SU-10002522,Office Supplies,Supplies,11.64,3,3.3756
+CA-2011-155593,2011,11/3/2011,November,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Fairfield,Connecticut,6824,East,OFF-SU-10002522,Office Supplies,Supplies,11.64,3,3.3756
 CA-2014-136000,2014,9/23/2014,September,Second Class,SC-20440,Shaun Chance,Corporate,New York City,New York,10009,East,OFF-BI-10004828,Office Supplies,Binders,40.176,3,14.5638
 US-2012-160857,2012,5/8/2012,May,Standard Class,NW-18400,Natalie Webber,Consumer,New York City,New York,10024,East,FUR-FU-10001095,Furniture,Furnishings,79.44,3,30.1872
 US-2012-160857,2012,5/8/2012,May,Standard Class,NW-18400,Natalie Webber,Consumer,New York City,New York,10024,East,OFF-SU-10000157,Office Supplies,Supplies,357.93,3,7.1586
@@ -5725,7 +5725,7 @@ CA-2012-138674,2012,11/14/2012,November,First Class,KB-16585,Ken Black,Corporate
 CA-2013-165820,2013,9/27/2013,September,Standard Class,DW-13585,Dorothy Wardle,Corporate,San Francisco,California,94109,West,OFF-PA-10004735,Office Supplies,Paper,12.96,2,6.2208
 CA-2011-103191,2011,9/22/2011,September,Standard Class,VG-21805,Vivek Grady,Corporate,Chicago,Illinois,60653,Central,OFF-ST-10002574,Office Supplies,Storage,331.536,3,-82.884
 CA-2012-103933,2012,9/25/2012,September,First Class,DR-12880,Dan Reichenbach,Corporate,New York City,New York,10011,East,TEC-AC-10004171,Technology,Accessories,899.91,9,395.9604
-CA-2012-110548,2012,5/4/2012,May,Standard Class,AH-10690,Anna Häberlin,Corporate,Houston,Texas,77095,Central,TEC-PH-10002922,Technology,Phones,946.344,7,118.293
+CA-2012-110548,2012,5/4/2012,May,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Houston,Texas,77095,Central,TEC-PH-10002922,Technology,Phones,946.344,7,118.293
 CA-2014-117324,2014,12/9/2014,December,Standard Class,JP-15520,Jeremy Pistek,Consumer,Madison,Wisconsin,53711,Central,TEC-AC-10003023,Technology,Accessories,178.11,3,32.0598
 CA-2014-117324,2014,12/9/2014,December,Standard Class,JP-15520,Jeremy Pistek,Consumer,Madison,Wisconsin,53711,Central,OFF-AP-10003590,Office Supplies,Appliances,1089.75,3,305.13
 CA-2014-117324,2014,12/9/2014,December,Standard Class,JP-15520,Jeremy Pistek,Consumer,Madison,Wisconsin,53711,Central,OFF-LA-10003510,Office Supplies,Labels,61.06,2,28.0876
@@ -5853,10 +5853,10 @@ CA-2012-121783,2012,11/10/2012,November,Standard Class,PO-19180,Philisse Overcas
 CA-2012-121783,2012,11/10/2012,November,Standard Class,PO-19180,Philisse Overcash,Home Office,Roseville,Minnesota,55113,Central,OFF-BI-10001658,Office Supplies,Binders,74.76,3,34.3896
 CA-2012-121783,2012,11/10/2012,November,Standard Class,PO-19180,Philisse Overcash,Home Office,Roseville,Minnesota,55113,Central,FUR-FU-10004351,Furniture,Furnishings,29.22,3,12.8568
 US-2011-138835,2011,9/10/2011,September,Standard Class,DA-13450,Dianna Arnett,Home Office,Virginia Beach,Virginia,23464,South,OFF-BI-10003314,Office Supplies,Binders,9.64,2,4.7236
-CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna Häberlin,Corporate,Dallas,Texas,75220,Central,OFF-ST-10001505,Office Supplies,Storage,33.488,7,-1.2558
-CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna Häberlin,Corporate,Dallas,Texas,75220,Central,OFF-SU-10003567,Office Supplies,Supplies,23.04,3,-4.896
-CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna Häberlin,Corporate,Dallas,Texas,75220,Central,OFF-BI-10002982,Office Supplies,Binders,1.362,1,-2.1792
-CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna Häberlin,Corporate,Dallas,Texas,75220,Central,FUR-FU-10002364,Furniture,Furnishings,14.76,5,-11.439
+CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Dallas,Texas,75220,Central,OFF-ST-10001505,Office Supplies,Storage,33.488,7,-1.2558
+CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Dallas,Texas,75220,Central,OFF-SU-10003567,Office Supplies,Supplies,23.04,3,-4.896
+CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Dallas,Texas,75220,Central,OFF-BI-10002982,Office Supplies,Binders,1.362,1,-2.1792
+CA-2012-112214,2012,8/5/2012,August,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Dallas,Texas,75220,Central,FUR-FU-10002364,Furniture,Furnishings,14.76,5,-11.439
 US-2014-153255,2014,9/4/2014,September,Second Class,JK-15730,Joe Kamberova,Consumer,Concord,California,94521,West,FUR-BO-10004218,Furniture,Bookcases,239.666,2,14.098
 CA-2012-108119,2012,11/1/2012,November,Standard Class,MS-17530,MaryBeth Skach,Consumer,Conway,Arkansas,72032,South,FUR-TA-10002530,Furniture,Tables,301.96,2,45.294
 CA-2012-157434,2012,4/29/2012,April,Second Class,JK-15640,Jim Kriz,Home Office,Philadelphia,Pennsylvania,19120,East,OFF-PA-10001526,Office Supplies,Paper,7.968,2,2.8884
@@ -6636,8 +6636,8 @@ CA-2013-166275,2013,10/25/2013,October,Same Day,SS-20590,Sonia Sunley,Consumer,S
 CA-2014-144498,2014,5/7/2014,May,Same Day,MB-18085,Mick Brown,Consumer,Charlotte,North Carolina,28205,South,OFF-BI-10003982,Office Supplies,Binders,68.541,11,-52.5481
 CA-2014-144498,2014,5/7/2014,May,Same Day,MB-18085,Mick Brown,Consumer,Charlotte,North Carolina,28205,South,TEC-PH-10004977,Technology,Phones,627.168,4,70.5564
 CA-2014-144498,2014,5/7/2014,May,Same Day,MB-18085,Mick Brown,Consumer,Charlotte,North Carolina,28205,South,OFF-LA-10003510,Office Supplies,Labels,122.12,5,39.689
-CA-2014-103352,2014,11/28/2014,November,Second Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10011,East,OFF-AR-10001573,Office Supplies,Art,6.99,3,2.0271
-CA-2014-103352,2014,11/28/2014,November,Second Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10011,East,OFF-BI-10001196,Office Supplies,Binders,107.424,6,36.2556
+CA-2014-103352,2014,11/28/2014,November,Second Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10011,East,OFF-AR-10001573,Office Supplies,Art,6.99,3,2.0271
+CA-2014-103352,2014,11/28/2014,November,Second Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10011,East,OFF-BI-10001196,Office Supplies,Binders,107.424,6,36.2556
 CA-2011-108609,2011,10/31/2011,October,Second Class,AJ-10780,Anthony Jacobs,Corporate,Lorain,Ohio,44052,East,FUR-TA-10003954,Furniture,Tables,1421.664,8,-734.5264
 CA-2014-128328,2014,8/6/2014,August,Standard Class,PO-18865,Patrick O'Donnell,Consumer,Indianapolis,Indiana,46203,Central,OFF-BI-10001989,Office Supplies,Binders,125.88,6,60.4224
 CA-2014-128328,2014,8/6/2014,August,Standard Class,PO-18865,Patrick O'Donnell,Consumer,Indianapolis,Indiana,46203,Central,TEC-AC-10001714,Technology,Accessories,79.78,2,29.5186
@@ -6647,12 +6647,12 @@ US-2012-156496,2012,8/10/2012,August,Standard Class,WB-21850,William Brown,Consu
 US-2012-156496,2012,8/10/2012,August,Standard Class,WB-21850,William Brown,Consumer,Redmond,Oregon,97756,West,OFF-AP-10001469,Office Supplies,Appliances,133.472,4,15.0156
 US-2013-127334,2013,12/16/2013,December,Standard Class,MP-18175,Mike Pelletier,Home Office,Springfield,Oregon,97477,West,FUR-TA-10003473,Furniture,Tables,564.195,3,-304.6653
 US-2013-127334,2013,12/16/2013,December,Standard Class,MP-18175,Mike Pelletier,Home Office,Springfield,Oregon,97477,West,OFF-AP-10001205,Office Supplies,Appliances,87.168,2,8.7168
-US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry Französisch,Corporate,Arlington,Texas,76017,Central,OFF-BI-10002429,Office Supplies,Binders,42.616,7,-68.1856
-US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry Französisch,Corporate,Arlington,Texas,76017,Central,TEC-CO-10001943,Technology,Copiers,319.984,2,107.9946
-US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry Französisch,Corporate,Arlington,Texas,76017,Central,OFF-FA-10004854,Office Supplies,Fasteners,45.92,5,15.498
-US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry Französisch,Corporate,Arlington,Texas,76017,Central,FUR-FU-10001095,Furniture,Furnishings,21.184,2,-11.6512
-US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry Französisch,Corporate,Arlington,Texas,76017,Central,OFF-PA-10000061,Office Supplies,Paper,20.736,4,7.2576
-US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry Französisch,Corporate,Arlington,Texas,76017,Central,FUR-CH-10003535,Furniture,Chairs,213.43,5,-39.637
+US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Arlington,Texas,76017,Central,OFF-BI-10002429,Office Supplies,Binders,42.616,7,-68.1856
+US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Arlington,Texas,76017,Central,TEC-CO-10001943,Technology,Copiers,319.984,2,107.9946
+US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Arlington,Texas,76017,Central,OFF-FA-10004854,Office Supplies,Fasteners,45.92,5,15.498
+US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Arlington,Texas,76017,Central,FUR-FU-10001095,Furniture,Furnishings,21.184,2,-11.6512
+US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Arlington,Texas,76017,Central,OFF-PA-10000061,Office Supplies,Paper,20.736,4,7.2576
+US-2014-124779,2014,9/9/2014,September,First Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Arlington,Texas,76017,Central,FUR-CH-10003535,Furniture,Chairs,213.43,5,-39.637
 CA-2014-135937,2014,2/21/2014,February,Standard Class,KM-16375,Katherine Murray,Home Office,Gilbert,Arizona,85234,West,TEC-PH-10004447,Technology,Phones,333.576,3,25.0182
 CA-2014-135937,2014,2/21/2014,February,Standard Class,KM-16375,Katherine Murray,Home Office,Gilbert,Arizona,85234,West,TEC-AC-10001114,Technology,Accessories,31.992,1,4.7988
 CA-2014-135937,2014,2/21/2014,February,Standard Class,KM-16375,Katherine Murray,Home Office,Gilbert,Arizona,85234,West,OFF-ST-10000563,Office Supplies,Storage,51.168,2,-6.396
@@ -7036,8 +7036,8 @@ CA-2013-145548,2013,11/12/2013,November,Standard Class,EB-13750,Edward Becker,Co
 CA-2013-145548,2013,11/12/2013,November,Standard Class,EB-13750,Edward Becker,Corporate,New York City,New York,10011,East,OFF-BI-10004236,Office Supplies,Binders,35.232,3,11.4504
 CA-2014-119494,2014,11/10/2014,November,Standard Class,JE-15610,Jim Epp,Corporate,San Diego,California,92105,West,FUR-CH-10004675,Furniture,Chairs,523.392,3,52.3392
 CA-2011-124618,2011,5/2/2011,May,Second Class,CS-11860,Cari Schnelling,Consumer,Lakeland,Florida,33801,South,TEC-CO-10004202,Technology,Copiers,479.984,2,89.997
-CA-2014-161970,2014,9/23/2014,September,Standard Class,PB-19105,Peter Bühler,Consumer,Smyrna,Georgia,30080,South,OFF-PA-10004255,Office Supplies,Paper,12.96,2,6.2208
-CA-2014-161970,2014,9/23/2014,September,Standard Class,PB-19105,Peter Bühler,Consumer,Smyrna,Georgia,30080,South,OFF-AR-10003896,Office Supplies,Art,17.94,3,6.4584
+CA-2014-161970,2014,9/23/2014,September,Standard Class,PB-19105,Peter BÃ¼hler,Consumer,Smyrna,Georgia,30080,South,OFF-PA-10004255,Office Supplies,Paper,12.96,2,6.2208
+CA-2014-161970,2014,9/23/2014,September,Standard Class,PB-19105,Peter BÃ¼hler,Consumer,Smyrna,Georgia,30080,South,OFF-AR-10003896,Office Supplies,Art,17.94,3,6.4584
 CA-2014-103443,2014,12/18/2014,December,Standard Class,AT-10735,Annie Thurman,Consumer,New York City,New York,10009,East,OFF-ST-10002276,Office Supplies,Storage,166.72,2,41.68
 CA-2014-103443,2014,12/18/2014,December,Standard Class,AT-10735,Annie Thurman,Consumer,New York City,New York,10009,East,OFF-BI-10001617,Office Supplies,Binders,24.816,3,8.3754
 CA-2014-103443,2014,12/18/2014,December,Standard Class,AT-10735,Annie Thurman,Consumer,New York City,New York,10009,East,FUR-FU-10000308,Furniture,Furnishings,124.36,2,27.3592
@@ -7094,9 +7094,9 @@ CA-2012-119480,2012,1/9/2012,January,Standard Class,CC-12685,Craig Carroll,Consu
 CA-2012-119480,2012,1/9/2012,January,Standard Class,CC-12685,Craig Carroll,Consumer,Henderson,Kentucky,42420,South,OFF-AR-10004691,Office Supplies,Art,42.76,2,11.1176
 CA-2012-119480,2012,1/9/2012,January,Standard Class,CC-12685,Craig Carroll,Consumer,Henderson,Kentucky,42420,South,OFF-PA-10004996,Office Supplies,Paper,51.55,5,24.2285
 US-2012-153374,2012,2/9/2012,February,Second Class,JF-15565,Jill Fjeld,Consumer,Decatur,Illinois,62521,Central,TEC-AC-10001908,Technology,Accessories,479.952,6,89.991
-CA-2013-101980,2013,8/20/2013,August,First Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10009,East,OFF-BI-10000666,Office Supplies,Binders,146.688,6,55.008
-CA-2013-101980,2013,8/20/2013,August,First Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10009,East,OFF-BI-10004318,Office Supplies,Binders,276.784,2,89.9548
-CA-2013-101980,2013,8/20/2013,August,First Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10009,East,OFF-BI-10003429,Office Supplies,Binders,25.32,5,9.1785
+CA-2013-101980,2013,8/20/2013,August,First Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10009,East,OFF-BI-10000666,Office Supplies,Binders,146.688,6,55.008
+CA-2013-101980,2013,8/20/2013,August,First Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10009,East,OFF-BI-10004318,Office Supplies,Binders,276.784,2,89.9548
+CA-2013-101980,2013,8/20/2013,August,First Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10009,East,OFF-BI-10003429,Office Supplies,Binders,25.32,5,9.1785
 CA-2014-144596,2014,11/7/2014,November,Standard Class,CD-11980,Carol Darley,Consumer,New York City,New York,10011,East,OFF-PA-10003302,Office Supplies,Paper,318.96,9,149.9112
 CA-2012-124933,2012,12/26/2012,December,Second Class,DF-13135,David Flashing,Consumer,New York City,New York,10009,East,OFF-PA-10003302,Office Supplies,Paper,212.64,6,99.9408
 CA-2011-159625,2011,11/23/2011,November,Standard Class,SM-20005,Sally Matthias,Consumer,Scottsdale,Arizona,85254,West,OFF-EN-10002621,Office Supplies,Envelopes,23.472,3,8.802
@@ -7354,7 +7354,7 @@ CA-2014-141138,2014,11/11/2014,November,Standard Class,GH-14425,Gary Hwang,Consu
 CA-2014-152135,2014,3/17/2014,March,Second Class,MG-17650,Matthew Grinstein,Home Office,Lakewood,Ohio,44107,East,TEC-PH-10003505,Technology,Phones,445.44,8,-81.664
 CA-2013-151974,2013,9/23/2013,September,Standard Class,RD-19660,Robert Dilbeck,Home Office,Philadelphia,Pennsylvania,19134,East,OFF-LA-10004484,Office Supplies,Labels,16.52,5,5.369
 CA-2014-154102,2014,2/7/2014,February,Standard Class,SN-20560,Skye Norling,Home Office,San Francisco,California,94109,West,OFF-PA-10001593,Office Supplies,Paper,29.9,5,13.455
-CA-2012-139780,2012,12/31/2012,December,Second Class,AH-10690,Anna Häberlin,Corporate,Detroit,Michigan,48205,Central,OFF-BI-10004139,Office Supplies,Binders,116.4,8,52.38
+CA-2012-139780,2012,12/31/2012,December,Second Class,AH-10690,Anna HÃ¤berlin,Corporate,Detroit,Michigan,48205,Central,OFF-BI-10004139,Office Supplies,Binders,116.4,8,52.38
 CA-2013-114748,2013,10/10/2013,October,Standard Class,MZ-17335,Maria Zettner,Home Office,Phoenix,Arizona,85023,West,OFF-AR-10001315,Office Supplies,Art,1.408,1,0.1584
 CA-2013-114748,2013,10/10/2013,October,Standard Class,MZ-17335,Maria Zettner,Home Office,Phoenix,Arizona,85023,West,FUR-FU-10001488,Furniture,Furnishings,169.568,2,0
 US-2011-115189,2011,12/30/2011,December,Second Class,AR-10345,Alex Russell,Corporate,Philadelphia,Pennsylvania,19143,East,TEC-PH-10002170,Technology,Phones,251.964,6,-50.3928
@@ -7436,7 +7436,7 @@ CA-2011-161249,2011,8/9/2011,August,Standard Class,RD-19720,Roger Demir,Consumer
 CA-2012-148180,2012,7/26/2012,July,Standard Class,BP-11095,Bart Pistole,Corporate,Oxnard,California,93030,West,OFF-BI-10000605,Office Supplies,Binders,9.144,3,3.0861
 CA-2012-148180,2012,7/26/2012,July,Standard Class,BP-11095,Bart Pistole,Corporate,Oxnard,California,93030,West,OFF-BI-10003314,Office Supplies,Binders,23.136,6,8.3868
 CA-2012-148180,2012,7/26/2012,July,Standard Class,BP-11095,Bart Pistole,Corporate,Oxnard,California,93030,West,OFF-AR-10002067,Office Supplies,Art,99.2,5,25.792
-CA-2011-165568,2011,2/16/2011,February,Standard Class,BF-11020,Barry Französisch,Corporate,Seattle,Washington,98105,West,OFF-BI-10001031,Office Supplies,Binders,21.36,5,7.209
+CA-2011-165568,2011,2/16/2011,February,Standard Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Seattle,Washington,98105,West,OFF-BI-10001031,Office Supplies,Binders,21.36,5,7.209
 CA-2012-145457,2012,3/24/2012,March,Second Class,CP-12085,Cathy Prescott,Corporate,Covington,Washington,98042,West,FUR-FU-10003832,Furniture,Furnishings,46.9,5,13.132
 US-2014-163657,2014,9/3/2014,September,Standard Class,JL-15235,Janet Lee,Consumer,Los Angeles,California,90049,West,OFF-BI-10000138,Office Supplies,Binders,18.72,5,6.552
 US-2014-163657,2014,9/3/2014,September,Standard Class,JL-15235,Janet Lee,Consumer,Los Angeles,California,90049,West,FUR-TA-10004607,Furniture,Tables,236.528,2,-2.9566
@@ -7465,7 +7465,7 @@ CA-2012-138485,2012,2/27/2012,February,Second Class,NP-18670,Nora Paige,Consumer
 CA-2013-103709,2013,9/9/2013,September,Standard Class,LP-17095,Liz Preis,Consumer,Visalia,California,93277,West,OFF-AR-10003338,Office Supplies,Art,14.88,2,3.72
 CA-2013-103709,2013,9/9/2013,September,Standard Class,LP-17095,Liz Preis,Consumer,Visalia,California,93277,West,OFF-PA-10004610,Office Supplies,Paper,34.24,8,15.408
 CA-2013-103709,2013,9/9/2013,September,Standard Class,LP-17095,Liz Preis,Consumer,Visalia,California,93277,West,OFF-ST-10001272,Office Supplies,Storage,261.74,2,65.435
-CA-2013-138282,2013,5/20/2013,May,Standard Class,AH-10690,Anna Häberlin,Corporate,Los Angeles,California,90008,West,OFF-AP-10001366,Office Supplies,Appliances,87.84,8,23.7168
+CA-2013-138282,2013,5/20/2013,May,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Los Angeles,California,90008,West,OFF-AP-10001366,Office Supplies,Appliances,87.84,8,23.7168
 CA-2014-148985,2014,11/12/2014,November,Second Class,TB-21190,Thomas Brumley,Home Office,Los Angeles,California,90045,West,FUR-FU-10001424,Furniture,Furnishings,34.92,4,11.8728
 CA-2011-138100,2011,9/15/2011,September,Standard Class,AA-10315,Alex Avila,Consumer,New York City,New York,10011,East,OFF-PA-10000349,Office Supplies,Paper,14.94,3,7.0218
 CA-2011-138100,2011,9/15/2011,September,Standard Class,AA-10315,Alex Avila,Consumer,New York City,New York,10011,East,FUR-FU-10002456,Furniture,Furnishings,14.56,2,6.2608
@@ -7714,7 +7714,7 @@ CA-2014-139353,2014,10/29/2014,October,Second Class,JM-15250,Janet Martin,Consum
 CA-2014-139353,2014,10/29/2014,October,Second Class,JM-15250,Janet Martin,Consumer,Fayetteville,North Carolina,28314,South,OFF-ST-10001522,Office Supplies,Storage,147.184,2,-29.4368
 CA-2014-139353,2014,10/29/2014,October,Second Class,JM-15250,Janet Martin,Consumer,Fayetteville,North Carolina,28314,South,OFF-PA-10000300,Office Supplies,Paper,47.952,3,16.1838
 CA-2011-150203,2011,12/5/2011,December,First Class,JB-15925,Joni Blumstein,Consumer,Los Angeles,California,90032,West,OFF-AP-10001469,Office Supplies,Appliances,250.26,6,72.5754
-US-2014-101518,2014,11/4/2014,November,Standard Class,PB-19105,Peter Bühler,Consumer,Philadelphia,Pennsylvania,19140,East,TEC-AC-10001553,Technology,Accessories,40.776,3,0.5097
+US-2014-101518,2014,11/4/2014,November,Standard Class,PB-19105,Peter BÃ¼hler,Consumer,Philadelphia,Pennsylvania,19140,East,TEC-AC-10001553,Technology,Accessories,40.776,3,0.5097
 CA-2012-149636,2012,1/6/2012,January,Standard Class,SP-20620,Stefania Perrino,Corporate,Colorado Springs,Colorado,80906,West,OFF-PA-10004041,Office Supplies,Paper,29.6,5,9.25
 CA-2012-149636,2012,1/6/2012,January,Standard Class,SP-20620,Stefania Perrino,Corporate,Colorado Springs,Colorado,80906,West,OFF-BI-10002764,Office Supplies,Binders,1.938,2,-1.3566
 US-2014-146213,2014,9/10/2014,September,Standard Class,MC-17605,Matt Connell,Corporate,Los Angeles,California,90032,West,TEC-AC-10001114,Technology,Accessories,159.96,4,51.1872
@@ -7778,8 +7778,8 @@ CA-2011-166961,2011,12/27/2011,December,Standard Class,CD-12790,Cynthia Delaney,
 CA-2011-166961,2011,12/27/2011,December,Standard Class,CD-12790,Cynthia Delaney,Home Office,Moreno Valley,California,92553,West,OFF-FA-10003485,Office Supplies,Fasteners,7.86,3,3.6156
 CA-2011-166961,2011,12/27/2011,December,Standard Class,CD-12790,Cynthia Delaney,Home Office,Moreno Valley,California,92553,West,OFF-ST-10004507,Office Supplies,Storage,51.45,3,13.8915
 CA-2011-166961,2011,12/27/2011,December,Standard Class,CD-12790,Cynthia Delaney,Home Office,Moreno Valley,California,92553,West,OFF-BI-10002353,Office Supplies,Binders,37.056,3,13.896
-CA-2013-139381,2013,4/19/2013,April,Standard Class,RF-19840,Roy Französisch,Consumer,Chesapeake,Virginia,23320,South,OFF-AP-10001271,Office Supplies,Appliances,203.92,4,55.0584
-CA-2013-139381,2013,4/19/2013,April,Standard Class,RF-19840,Roy Französisch,Consumer,Chesapeake,Virginia,23320,South,TEC-PH-10004924,Technology,Phones,29.56,4,7.9812
+CA-2013-139381,2013,4/19/2013,April,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Chesapeake,Virginia,23320,South,OFF-AP-10001271,Office Supplies,Appliances,203.92,4,55.0584
+CA-2013-139381,2013,4/19/2013,April,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Chesapeake,Virginia,23320,South,TEC-PH-10004924,Technology,Phones,29.56,4,7.9812
 CA-2012-132136,2012,3/8/2012,March,Standard Class,FO-14305,Frank Olsen,Consumer,Chicago,Illinois,60623,Central,OFF-BI-10002706,Office Supplies,Binders,8.568,3,-14.5656
 CA-2013-162236,2013,11/5/2013,November,Second Class,ER-13855,Elpida Rittenbach,Corporate,Charlotte,North Carolina,28205,South,OFF-ST-10003442,Office Supplies,Storage,45.248,2,3.9592
 CA-2013-162236,2013,11/5/2013,November,Second Class,ER-13855,Elpida Rittenbach,Corporate,Charlotte,North Carolina,28205,South,FUR-TA-10002533,Furniture,Tables,876.3,10,-292.1
@@ -7923,8 +7923,8 @@ CA-2014-139822,2014,9/16/2014,September,Standard Class,Dp-13240,Dean percer,Home
 CA-2014-107713,2014,3/14/2014,March,Standard Class,JB-16000,Joy Bell-,Consumer,Columbia,Maryland,21044,East,OFF-BI-10002026,Office Supplies,Binders,174.3,3,81.921
 CA-2014-134096,2014,9/25/2014,September,Standard Class,PP-18955,Paul Prost,Home Office,Hollywood,Florida,33021,South,TEC-PH-10000526,Technology,Phones,383.96,5,38.396
 CA-2014-134096,2014,9/25/2014,September,Standard Class,PP-18955,Paul Prost,Home Office,Hollywood,Florida,33021,South,OFF-BI-10004002,Office Supplies,Binders,15.57,3,-11.418
-CA-2013-125843,2013,8/14/2013,August,First Class,RF-19840,Roy Französisch,Consumer,Springfield,Virginia,22153,South,OFF-BI-10002309,Office Supplies,Binders,22.32,4,10.7136
-CA-2013-125843,2013,8/14/2013,August,First Class,RF-19840,Roy Französisch,Consumer,Springfield,Virginia,22153,South,OFF-LA-10003923,Office Supplies,Labels,103.6,7,51.8
+CA-2013-125843,2013,8/14/2013,August,First Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Springfield,Virginia,22153,South,OFF-BI-10002309,Office Supplies,Binders,22.32,4,10.7136
+CA-2013-125843,2013,8/14/2013,August,First Class,RF-19840,Roy FranzÃ¶sisch,Consumer,Springfield,Virginia,22153,South,OFF-LA-10003923,Office Supplies,Labels,103.6,7,51.8
 CA-2014-120404,2014,11/21/2014,November,Second Class,KH-16330,Katharine Harms,Corporate,New York City,New York,10035,East,TEC-AC-10003433,Technology,Accessories,2.97,3,1.3365
 CA-2014-120404,2014,11/21/2014,November,Second Class,KH-16330,Katharine Harms,Corporate,New York City,New York,10035,East,TEC-PH-10001363,Technology,Phones,569.99,1,170.997
 CA-2014-120404,2014,11/21/2014,November,Second Class,KH-16330,Katharine Harms,Corporate,New York City,New York,10035,East,FUR-FU-10000820,Furniture,Furnishings,50.97,3,9.1746
@@ -8017,7 +8017,7 @@ CA-2014-120138,2014,5/26/2014,May,Same Day,TB-21625,Trudy Brown,Consumer,New Yor
 CA-2014-120138,2014,5/26/2014,May,Same Day,TB-21625,Trudy Brown,Consumer,New York City,New York,10009,East,FUR-FU-10000732,Furniture,Furnishings,18.84,3,6.0288
 US-2011-131870,2011,9/9/2011,September,First Class,NF-18595,Nicole Fjeld,Home Office,Lancaster,Ohio,43130,East,FUR-FU-10002501,Furniture,Furnishings,60.672,6,12.8928
 US-2011-131870,2011,9/9/2011,September,First Class,NF-18595,Nicole Fjeld,Home Office,Lancaster,Ohio,43130,East,OFF-AR-10000634,Office Supplies,Art,30.816,9,2.6964
-CA-2014-114804,2014,10/18/2014,October,Second Class,BF-11020,Barry Französisch,Corporate,Modesto,California,95351,West,TEC-PH-10001700,Technology,Phones,52.792,1,4.6193
+CA-2014-114804,2014,10/18/2014,October,Second Class,BF-11020,Barry FranzÃ¶sisch,Corporate,Modesto,California,95351,West,TEC-PH-10001700,Technology,Phones,52.792,1,4.6193
 CA-2014-167227,2014,11/3/2014,November,First Class,NP-18670,Nora Paige,Consumer,Saint Louis,Missouri,63116,Central,OFF-AP-10001962,Office Supplies,Appliances,83.9,10,20.975
 CA-2014-167227,2014,11/3/2014,November,First Class,NP-18670,Nora Paige,Consumer,Saint Louis,Missouri,63116,Central,OFF-PA-10001838,Office Supplies,Paper,11.76,2,5.7624
 CA-2011-129189,2011,7/21/2011,July,Standard Class,HM-14860,Harry Marie,Corporate,Dallas,Texas,75217,Central,OFF-AP-10000124,Office Supplies,Appliances,4.992,3,-12.9792
@@ -8166,7 +8166,7 @@ CA-2012-168207,2012,11/2/2012,November,Standard Class,LT-17110,Liz Thompson,Cons
 CA-2012-168207,2012,11/2/2012,November,Standard Class,LT-17110,Liz Thompson,Consumer,San Diego,California,92105,West,OFF-BI-10001524,Office Supplies,Binders,117.488,7,41.1208
 CA-2012-168207,2012,11/2/2012,November,Standard Class,LT-17110,Liz Thompson,Consumer,San Diego,California,92105,West,OFF-BI-10003355,Office Supplies,Binders,11.952,3,4.1832
 CA-2012-168207,2012,11/2/2012,November,Standard Class,LT-17110,Liz Thompson,Consumer,San Diego,California,92105,West,FUR-BO-10004357,Furniture,Bookcases,512.499,3,-30.147
-CA-2013-144148,2013,8/1/2013,August,Standard Class,AH-10690,Anna Häberlin,Corporate,San Francisco,California,94122,West,FUR-TA-10002774,Furniture,Tables,863.128,7,-32.3673
+CA-2013-144148,2013,8/1/2013,August,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,San Francisco,California,94122,West,FUR-TA-10002774,Furniture,Tables,863.128,7,-32.3673
 CA-2014-107174,2014,11/7/2014,November,Standard Class,AB-10060,Adam Bellavance,Home Office,Seattle,Washington,98105,West,FUR-TA-10004575,Furniture,Tables,2036.86,7,366.6348
 CA-2014-107174,2014,11/7/2014,November,Standard Class,AB-10060,Adam Bellavance,Home Office,Seattle,Washington,98105,West,FUR-CH-10003312,Furniture,Chairs,449.568,2,-73.0548
 CA-2014-107174,2014,11/7/2014,November,Standard Class,AB-10060,Adam Bellavance,Home Office,Seattle,Washington,98105,West,TEC-AC-10001465,Technology,Accessories,108.96,3,32.688
@@ -8425,7 +8425,7 @@ CA-2014-150091,2014,10/13/2014,October,Standard Class,NP-18670,Nora Paige,Consum
 CA-2014-150091,2014,10/13/2014,October,Standard Class,NP-18670,Nora Paige,Consumer,Lakewood,New Jersey,8701,East,FUR-FU-10004053,Furniture,Furnishings,40.48,2,17.4064
 CA-2014-150091,2014,10/13/2014,October,Standard Class,NP-18670,Nora Paige,Consumer,Lakewood,New Jersey,8701,East,FUR-BO-10003404,Furniture,Bookcases,2154.9,5,129.294
 CA-2013-137652,2013,8/29/2013,August,First Class,EB-13750,Edward Becker,Corporate,Cincinnati,Ohio,45231,East,OFF-BI-10004099,Office Supplies,Binders,18.432,8,-12.288
-CA-2012-128356,2012,10/2/2012,October,Standard Class,RP-19390,Resi Pölking,Consumer,Thornton,Colorado,80229,West,OFF-SU-10004290,Office Supplies,Supplies,10.944,2,0.9576
+CA-2012-128356,2012,10/2/2012,October,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Thornton,Colorado,80229,West,OFF-SU-10004290,Office Supplies,Supplies,10.944,2,0.9576
 CA-2014-167017,2014,11/24/2014,November,First Class,DC-12850,Dan Campbell,Consumer,Roseville,Michigan,48066,Central,OFF-SU-10001935,Office Supplies,Supplies,4.36,2,0.1744
 US-2014-132220,2014,11/13/2014,November,Standard Class,DJ-13510,Don Jones,Corporate,Tempe,Arizona,85281,West,TEC-AC-10004227,Technology,Accessories,62.352,6,-10.9116
 CA-2013-118129,2013,12/20/2013,December,Second Class,CL-12565,Clay Ludtke,Consumer,Reading,Pennsylvania,19601,East,FUR-FU-10004904,Furniture,Furnishings,303.92,5,-30.392
@@ -8476,7 +8476,7 @@ CA-2012-169733,2012,10/22/2012,October,Second Class,GM-14500,Gene McClure,Consum
 CA-2014-169404,2014,4/10/2014,April,Standard Class,NC-18625,Noah Childs,Corporate,York,Pennsylvania,17403,East,OFF-BI-10004492,Office Supplies,Binders,37.896,4,-29.0536
 CA-2014-169404,2014,4/10/2014,April,Standard Class,NC-18625,Noah Childs,Corporate,York,Pennsylvania,17403,East,OFF-PA-10001033,Office Supplies,Paper,65.584,2,23.7742
 CA-2014-134880,2014,10/28/2014,October,Standard Class,TW-21025,Tamara Willingham,Home Office,Mesa,Arizona,85204,West,OFF-PA-10004039,Office Supplies,Paper,44.784,1,16.2342
-CA-2012-145758,2012,10/30/2012,October,Same Day,BF-11020,Barry Französisch,Corporate,New York City,New York,10024,East,TEC-MA-10004552,Technology,Machines,1035.8,4,269.308
+CA-2012-145758,2012,10/30/2012,October,Same Day,BF-11020,Barry FranzÃ¶sisch,Corporate,New York City,New York,10024,East,TEC-MA-10004552,Technology,Machines,1035.8,4,269.308
 CA-2014-158736,2014,12/19/2014,December,Standard Class,TT-21460,Tonja Turnell,Home Office,San Francisco,California,94110,West,OFF-AR-10002578,Office Supplies,Art,5.76,2,1.6704
 US-2013-119270,2013,3/13/2013,March,Standard Class,SW-20245,Scot Wooten,Consumer,Los Angeles,California,90036,West,OFF-PA-10004022,Office Supplies,Paper,19.98,2,8.991
 CA-2011-109890,2011,7/21/2011,July,Standard Class,PG-18820,Patrick Gardner,Consumer,Omaha,Nebraska,68104,Central,TEC-PH-10004100,Technology,Phones,35.98,2,10.0744
@@ -8649,14 +8649,14 @@ CA-2013-113341,2013,11/26/2013,November,Standard Class,MH-17455,Mark Hamilton,Co
 US-2012-131842,2012,12/5/2012,December,First Class,RR-19525,Rick Reed,Corporate,Nashville,Tennessee,37211,South,FUR-CH-10004477,Furniture,Chairs,97.424,2,10.9602
 CA-2013-164574,2013,7/30/2013,July,Standard Class,RH-19555,Ritsa Hightower,Consumer,Charlotte,North Carolina,28205,South,OFF-ST-10003816,Office Supplies,Storage,704.76,5,26.4285
 CA-2013-164574,2013,7/30/2013,July,Standard Class,RH-19555,Ritsa Hightower,Consumer,Charlotte,North Carolina,28205,South,OFF-BI-10002429,Office Supplies,Binders,27.396,3,-20.0904
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,OFF-FA-10000840,Office Supplies,Fasteners,5.7,5,2.679
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,FUR-FU-10001918,Furniture,Furnishings,14.19,3,5.5341
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,OFF-SU-10001574,Office Supplies,Supplies,7.3,2,2.19
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,TEC-AC-10001606,Technology,Accessories,199.98,2,75.9924
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,TEC-AC-10003399,Technology,Accessories,144.96,4,60.8832
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,TEC-AC-10000865,Technology,Accessories,118,2,20.06
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,OFF-PA-10002923,Office Supplies,Paper,48.94,1,24.47
-CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi Pölking,Consumer,Seattle,Washington,98103,West,OFF-AP-10004785,Office Supplies,Appliances,22.66,2,9.7438
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,OFF-FA-10000840,Office Supplies,Fasteners,5.7,5,2.679
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,FUR-FU-10001918,Furniture,Furnishings,14.19,3,5.5341
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,OFF-SU-10001574,Office Supplies,Supplies,7.3,2,2.19
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,TEC-AC-10001606,Technology,Accessories,199.98,2,75.9924
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,TEC-AC-10003399,Technology,Accessories,144.96,4,60.8832
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,TEC-AC-10000865,Technology,Accessories,118,2,20.06
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,OFF-PA-10002923,Office Supplies,Paper,48.94,1,24.47
+CA-2011-142769,2011,9/13/2011,September,Same Day,RP-19390,Resi PÃ¶lking,Consumer,Seattle,Washington,98103,West,OFF-AP-10004785,Office Supplies,Appliances,22.66,2,9.7438
 CA-2013-168361,2013,6/22/2013,June,Standard Class,KB-16600,Ken Brennan,Corporate,Chicago,Illinois,60623,Central,OFF-BI-10003727,Office Supplies,Binders,0.836,1,-1.3376
 CA-2013-153185,2013,9/4/2013,September,Standard Class,MH-17620,Matt Hagelstein,Corporate,Cincinnati,Ohio,45231,East,OFF-PA-10002246,Office Supplies,Paper,30.96,6,11.223
 CA-2014-124765,2014,11/26/2014,November,Standard Class,HZ-14950,Henia Zydlo,Consumer,Fort Lauderdale,Florida,33311,South,FUR-BO-10003965,Furniture,Bookcases,723.92,5,-81.441
@@ -8702,9 +8702,9 @@ CA-2014-119284,2014,6/16/2014,June,Standard Class,TS-21205,Thomas Seio,Corporate
 CA-2014-119284,2014,6/16/2014,June,Standard Class,TS-21205,Thomas Seio,Corporate,Nashville,Tennessee,37211,South,OFF-AP-10004249,Office Supplies,Appliances,76.608,8,6.7032
 CA-2014-119284,2014,6/16/2014,June,Standard Class,TS-21205,Thomas Seio,Corporate,Nashville,Tennessee,37211,South,OFF-ST-10001490,Office Supplies,Storage,142.776,1,17.847
 CA-2014-119284,2014,6/16/2014,June,Standard Class,TS-21205,Thomas Seio,Corporate,Nashville,Tennessee,37211,South,OFF-PA-10000312,Office Supplies,Paper,91.36,5,29.692
-CA-2012-133494,2012,3/1/2012,March,Standard Class,RP-19390,Resi Pölking,Consumer,Philadelphia,Pennsylvania,19120,East,OFF-AP-10002906,Office Supplies,Appliances,3.552,2,0.444
+CA-2012-133494,2012,3/1/2012,March,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Philadelphia,Pennsylvania,19120,East,OFF-AP-10002906,Office Supplies,Appliances,3.552,2,0.444
 CA-2013-111318,2013,7/24/2013,July,First Class,IL-15100,Ivan Liston,Consumer,Houston,Texas,77041,Central,TEC-PH-10004100,Technology,Phones,115.136,8,11.5136
-US-2011-132745,2011,10/1/2011,October,Standard Class,NF-18475,Neil Französisch,Home Office,Reno,Nevada,89502,West,OFF-FA-10000254,Office Supplies,Fasteners,4.71,1,0
+US-2011-132745,2011,10/1/2011,October,Standard Class,NF-18475,Neil FranzÃ¶sisch,Home Office,Reno,Nevada,89502,West,OFF-FA-10000254,Office Supplies,Fasteners,4.71,1,0
 CA-2011-146815,2011,9/8/2011,September,Standard Class,PP-18955,Paul Prost,Home Office,New York City,New York,10009,East,FUR-CH-10004289,Furniture,Chairs,172.764,2,13.4372
 CA-2011-146815,2011,9/8/2011,September,Standard Class,PP-18955,Paul Prost,Home Office,New York City,New York,10009,East,OFF-AR-10003469,Office Supplies,Art,3.52,2,1.6896
 CA-2011-119144,2011,11/16/2011,November,First Class,JD-16150,Justin Deggeller,Corporate,Los Angeles,California,90008,West,TEC-PH-10004188,Technology,Phones,79.968,4,-17.9928
@@ -8918,10 +8918,10 @@ US-2013-144057,2013,5/10/2013,May,Standard Class,CV-12805,Cynthia Voltz,Corporat
 US-2013-144057,2013,5/10/2013,May,Standard Class,CV-12805,Cynthia Voltz,Corporate,Austin,Texas,78745,Central,OFF-AP-10000390,Office Supplies,Appliances,48.784,4,-131.7168
 US-2013-144057,2013,5/10/2013,May,Standard Class,CV-12805,Cynthia Voltz,Corporate,Austin,Texas,78745,Central,OFF-PA-10004327,Office Supplies,Paper,76.64,2,26.824
 US-2013-144057,2013,5/10/2013,May,Standard Class,CV-12805,Cynthia Voltz,Corporate,Austin,Texas,78745,Central,OFF-BI-10002353,Office Supplies,Binders,18.528,6,-27.792
-CA-2011-160276,2011,4/2/2011,April,Standard Class,AH-10690,Anna Häberlin,Corporate,Virginia Beach,Virginia,23464,South,FUR-FU-10003192,Furniture,Furnishings,177.68,2,46.1968
+CA-2011-160276,2011,4/2/2011,April,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Virginia Beach,Virginia,23464,South,FUR-FU-10003192,Furniture,Furnishings,177.68,2,46.1968
 CA-2011-132983,2011,4/28/2011,April,Standard Class,DS-13180,David Smith,Corporate,Jamestown,New York,14701,East,TEC-AC-10000736,Technology,Accessories,159.98,2,57.5928
-CA-2013-145709,2013,10/5/2013,October,Standard Class,AH-10690,Anna Häberlin,Corporate,Coral Gables,Florida,33134,South,TEC-PH-10003095,Technology,Phones,52.68,3,19.755
-CA-2013-145709,2013,10/5/2013,October,Standard Class,AH-10690,Anna Häberlin,Corporate,Coral Gables,Florida,33134,South,FUR-FU-10002885,Furniture,Furnishings,11.568,3,2.6028
+CA-2013-145709,2013,10/5/2013,October,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Coral Gables,Florida,33134,South,TEC-PH-10003095,Technology,Phones,52.68,3,19.755
+CA-2013-145709,2013,10/5/2013,October,Standard Class,AH-10690,Anna HÃ¤berlin,Corporate,Coral Gables,Florida,33134,South,FUR-FU-10002885,Furniture,Furnishings,11.568,3,2.6028
 CA-2014-133928,2014,6/12/2014,June,Standard Class,ZC-21910,Zuschuss Carroll,Consumer,Hickory,North Carolina,28601,South,OFF-BI-10001525,Office Supplies,Binders,4.572,4,-3.81
 CA-2013-168032,2013,1/30/2013,January,Standard Class,DF-13135,David Flashing,Consumer,Rockford,Illinois,61107,Central,TEC-PH-10004241,Technology,Phones,1439.968,4,143.9968
 CA-2013-168032,2013,1/30/2013,January,Standard Class,DF-13135,David Flashing,Consumer,Rockford,Illinois,61107,Central,OFF-BI-10000546,Office Supplies,Binders,1.728,3,-2.6784
@@ -9035,8 +9035,8 @@ CA-2014-105823,2014,6/23/2014,June,Standard Class,RB-19465,Rick Bensley,Home Off
 CA-2011-152268,2011,9/2/2011,September,Standard Class,SC-20095,Sanjit Chand,Consumer,Fayetteville,Arkansas,72701,South,OFF-BI-10001359,Office Supplies,Binders,1793.98,2,843.1706
 CA-2012-148873,2012,10/1/2012,October,Standard Class,EM-13960,Eric Murdock,Consumer,Quincy,Illinois,62301,Central,OFF-BI-10003196,Office Supplies,Binders,2.992,4,-4.488
 CA-2012-148873,2012,10/1/2012,October,Standard Class,EM-13960,Eric Murdock,Consumer,Quincy,Illinois,62301,Central,TEC-AC-10003657,Technology,Accessories,108.768,4,2.7192
-CA-2012-166492,2012,4/7/2012,April,First Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10035,East,OFF-PA-10002262,Office Supplies,Paper,25.92,4,12.4416
-CA-2012-166492,2012,4/7/2012,April,First Class,RP-19390,Resi Pölking,Consumer,New York City,New York,10035,East,OFF-ST-10002214,Office Supplies,Storage,22.58,2,5.8708
+CA-2012-166492,2012,4/7/2012,April,First Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10035,East,OFF-PA-10002262,Office Supplies,Paper,25.92,4,12.4416
+CA-2012-166492,2012,4/7/2012,April,First Class,RP-19390,Resi PÃ¶lking,Consumer,New York City,New York,10035,East,OFF-ST-10002214,Office Supplies,Storage,22.58,2,5.8708
 CA-2014-157420,2014,11/22/2014,November,Same Day,HZ-14950,Henia Zydlo,Consumer,Houston,Texas,77095,Central,TEC-PH-10003555,Technology,Phones,55.176,3,-12.4146
 CA-2013-117121,2013,12/18/2013,December,Standard Class,AB-10105,Adrian Barton,Consumer,Detroit,Michigan,48205,Central,OFF-BI-10000545,Office Supplies,Binders,9892.74,13,4946.37
 CA-2011-138177,2011,9/19/2011,September,Standard Class,ND-18460,Neil Ducich,Corporate,Chandler,Arizona,85224,West,FUR-TA-10004607,Furniture,Tables,73.915,1,-45.8273
@@ -9230,7 +9230,7 @@ CA-2014-140515,2014,3/20/2014,March,Standard Class,GZ-14545,George Zrebassa,Corp
 CA-2011-153619,2011,11/3/2011,November,Same Day,TC-21535,Tracy Collins,Home Office,Los Angeles,California,90049,West,OFF-AR-10001868,Office Supplies,Art,6.72,4,3.36
 CA-2014-133718,2014,7/24/2014,July,First Class,TB-21520,Tracy Blumstein,Consumer,Los Angeles,California,90045,West,OFF-BI-10003429,Office Supplies,Binders,15.192,3,5.5071
 CA-2014-133718,2014,7/24/2014,July,First Class,TB-21520,Tracy Blumstein,Consumer,Los Angeles,California,90045,West,OFF-PA-10002689,Office Supplies,Paper,58.32,9,27.9936
-CA-2011-148383,2011,12/27/2011,December,Standard Class,RP-19390,Resi Pölking,Consumer,Phoenix,Arizona,85023,West,OFF-BI-10003650,Office Supplies,Binders,946.764,6,-694.2936
+CA-2011-148383,2011,12/27/2011,December,Standard Class,RP-19390,Resi PÃ¶lking,Consumer,Phoenix,Arizona,85023,West,OFF-BI-10003650,Office Supplies,Binders,946.764,6,-694.2936
 CA-2013-126732,2013,9/3/2013,September,Standard Class,LR-16915,Lena Radford,Consumer,Los Angeles,California,90036,West,FUR-FU-10001889,Furniture,Furnishings,94.68,9,31.2444
 CA-2013-126732,2013,9/3/2013,September,Standard Class,LR-16915,Lena Radford,Consumer,Los Angeles,California,90036,West,OFF-ST-10000321,Office Supplies,Storage,23.67,3,0.9468
 CA-2013-126732,2013,9/3/2013,September,Standard Class,LR-16915,Lena Radford,Consumer,Los Angeles,California,90036,West,TEC-PH-10001530,Technology,Phones,1091.168,4,68.198
@@ -9513,7 +9513,7 @@ CA-2013-105263,2013,8/7/2013,August,Standard Class,LM-17065,Liz MacKendrick,Cons
 CA-2011-130575,2011,12/14/2011,December,First Class,CS-11845,Cari Sayre,Corporate,Chicago,Illinois,60623,Central,OFF-BI-10002353,Office Supplies,Binders,9.264,3,-13.896
 CA-2014-142461,2014,5/31/2014,May,Second Class,KT-16480,Kean Thornton,Consumer,Dallas,Texas,75217,Central,FUR-BO-10001811,Furniture,Bookcases,204.6664,1,-6.0196
 CA-2013-125220,2013,10/15/2013,October,Standard Class,BE-11410,Bobby Elias,Consumer,Appleton,Wisconsin,54915,Central,TEC-AC-10003033,Technology,Accessories,1649.75,5,544.4175
-CA-2011-100293,2011,3/14/2011,March,Standard Class,NF-18475,Neil Französisch,Home Office,Jacksonville,Florida,32216,South,OFF-PA-10000176,Office Supplies,Paper,91.056,6,31.8696
+CA-2011-100293,2011,3/14/2011,March,Standard Class,NF-18475,Neil FranzÃ¶sisch,Home Office,Jacksonville,Florida,32216,South,OFF-PA-10000176,Office Supplies,Paper,91.056,6,31.8696
 CA-2011-154165,2011,2/18/2011,February,Standard Class,DL-13315,Delfina Latchford,Consumer,Chicago,Illinois,60653,Central,OFF-AR-10003631,Office Supplies,Art,54.208,14,8.8088
 CA-2012-123939,2012,8/24/2012,August,Second Class,MS-17710,Maurice Satty,Consumer,Bowling Green,Ohio,43402,East,TEC-PH-10000923,Technology,Phones,26.982,3,4.0473
 CA-2012-123939,2012,8/24/2012,August,Second Class,MS-17710,Maurice Satty,Consumer,Bowling Green,Ohio,43402,East,OFF-LA-10003190,Office Supplies,Labels,6.912,3,2.5056
@@ -9735,7 +9735,7 @@ CA-2011-114321,2011,8/20/2011,August,Standard Class,NC-18535,Nick Crebassa,Corpo
 CA-2011-114321,2011,8/20/2011,August,Standard Class,NC-18535,Nick Crebassa,Corporate,Hampton,Virginia,23666,South,OFF-PA-10000246,Office Supplies,Paper,20.12,2,9.2552
 CA-2011-114321,2011,8/20/2011,August,Standard Class,NC-18535,Nick Crebassa,Corporate,Hampton,Virginia,23666,South,OFF-BI-10001359,Office Supplies,Binders,896.99,1,421.5853
 CA-2011-128062,2011,11/19/2011,November,Second Class,AD-10180,Alan Dominguez,Home Office,Philadelphia,Pennsylvania,19134,East,OFF-PA-10001583,Office Supplies,Paper,5.88,1,1.9845
-US-2012-100069,2012,6/29/2012,June,Standard Class,NF-18475,Neil Französisch,Home Office,Omaha,Nebraska,68104,Central,TEC-PH-10004667,Technology,Phones,269.98,2,72.8946
+US-2012-100069,2012,6/29/2012,June,Standard Class,NF-18475,Neil FranzÃ¶sisch,Home Office,Omaha,Nebraska,68104,Central,TEC-PH-10004667,Technology,Phones,269.98,2,72.8946
 CA-2014-129294,2014,3/17/2014,March,Standard Class,KD-16615,Ken Dana,Corporate,Los Angeles,California,90032,West,OFF-ST-10002615,Office Supplies,Storage,310.12,2,80.6312
 CA-2014-129294,2014,3/17/2014,March,Standard Class,KD-16615,Ken Dana,Corporate,Los Angeles,California,90032,West,OFF-BI-10004236,Office Supplies,Binders,70.464,6,22.9008
 CA-2014-129294,2014,3/17/2014,March,Standard Class,KD-16615,Ken Dana,Corporate,Los Angeles,California,90032,West,OFF-BI-10001757,Office Supplies,Binders,19.68,5,6.888
@@ -9874,7 +9874,7 @@ CA-2014-146269,2014,10/7/2014,October,Same Day,MH-17455,Mark Hamilton,Consumer,C
 CA-2014-146269,2014,10/7/2014,October,Same Day,MH-17455,Mark Hamilton,Consumer,Chicago,Illinois,60623,Central,OFF-AR-10004790,Office Supplies,Art,19.152,2,1.197
 CA-2013-100587,2013,12/11/2013,December,Standard Class,SL-20155,Sara Luxemburg,Home Office,New York City,New York,10024,East,OFF-PA-10004609,Office Supplies,Paper,6.48,1,3.1104
 CA-2013-166653,2013,9/23/2013,September,Second Class,NP-18685,Nora Pelletier,Home Office,Parma,Ohio,44134,East,OFF-EN-10003055,Office Supplies,Envelopes,63.968,2,19.99
-CA-2012-130855,2012,12/29/2012,December,Standard Class,RF-19840,Roy Französisch,Consumer,New York City,New York,10035,East,OFF-SU-10003936,Office Supplies,Supplies,6.36,2,0.0636
+CA-2012-130855,2012,12/29/2012,December,Standard Class,RF-19840,Roy FranzÃ¶sisch,Consumer,New York City,New York,10035,East,OFF-SU-10003936,Office Supplies,Supplies,6.36,2,0.0636
 US-2014-166324,2014,4/21/2014,April,First Class,BE-11455,Brad Eason,Home Office,Cleveland,Ohio,44105,East,OFF-ST-10000078,Office Supplies,Storage,848.544,4,-21.2136
 US-2014-166324,2014,4/21/2014,April,First Class,BE-11455,Brad Eason,Home Office,Cleveland,Ohio,44105,East,OFF-BI-10000174,Office Supplies,Binders,8.7,5,-6.38
 US-2014-166324,2014,4/21/2014,April,First Class,BE-11455,Brad Eason,Home Office,Cleveland,Ohio,44105,East,TEC-PH-10004080,Technology,Phones,122.382,3,-24.4764
