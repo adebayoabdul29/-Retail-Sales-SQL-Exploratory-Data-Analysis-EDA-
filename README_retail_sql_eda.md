@@ -1,25 +1,13 @@
-# 🛒 Retail Sales — SQL Exploratory Data Analysis (EDA)
+#  Retail Sales — SQL Exploratory Data Analysis (EDA)
 
-> A structured SQL-based exploratory data analysis of a retail sales dataset covering 9,994 orders — uncovering revenue trends, regional performance, customer segments, and product profitability.
 
----
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs a full **Exploratory Data Analysis (EDA)** on a retail sales dataset using SQL. The analysis answers 8 key business questions across sales performance, regional breakdowns, product categories, customer segments, and profitability — providing actionable insights for data-driven decision making.
 
 ---
 
-## 📂 Repository Structure
-
-```
-retail-sales-sql-eda/
-│
-├── retail_sales_eda.sql       # Full SQL EDA script (8 analysis queries)
-├── data/
-│   └── retail_sales_raw.csv   # Raw dataset (9,994 records)
-└── README.md                  # Project documentation
-```
 
 ---
 
@@ -61,13 +49,13 @@ retail-sales-sql-eda/
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
-- 💰 **Total Revenue** of $2.3M generated across 9,994 orders with a **12.47% profit margin**
-- 🌍 **West region** is the top-performing region by sales revenue
-- 💻 **Technology** is the most profitable product category
-- 🏠 **Home Office** customers place the highest-value individual orders
-- 📋 **Copiers** are the single most profitable sub-category
+-  **Total Revenue** of $2.3M generated across 9,994 orders with a **12.47% profit margin**
+-  **West region** is the top-performing region by sales revenue
+-  **Technology** is the most profitable product category
+-  **Home Office** customers place the highest-value individual orders
+-  **Copiers** are the single most profitable sub-category
 
 ---
 
@@ -85,7 +73,7 @@ retail-sales-sql-eda/
 
 ---
 
-## 🧹 Data Notes
+## Data Notes
 
 - `Region` values were normalised using `UPPER()` to handle casing inconsistencies in the raw data (e.g. `'south'` vs `'South'`)
 - All monetary values are rounded to 2 decimal places for readability
@@ -110,16 +98,7 @@ FROM sales_data;
 
 ---
 
-## 👤 Author
 
-**Abdulfattah**
-Data Analyst | Accounting Graduate | Interior Decorator
-
-> *"Turning raw numbers into meaningful stories."*
-
----
-
-## 📬 Contact
 
 - 🐙 GitHub: [@fattah-canvas](https://github.com/fattah-canvas)
 
