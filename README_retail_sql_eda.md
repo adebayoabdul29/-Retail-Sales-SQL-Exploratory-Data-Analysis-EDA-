@@ -11,7 +11,7 @@ This project performs a full **Exploratory Data Analysis (EDA)** on a retail sal
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 | Column | Description |
 |---|---|
