@@ -34,7 +34,7 @@ This project performs a full **Exploratory Data Analysis (EDA)** on a retail sal
 
 ---
 
-## 🔍 EDA Questions Covered
+##  EDA Questions Covered
 
 | # | Question | Key Insight |
 |---|---|---|
@@ -59,7 +59,7 @@ This project performs a full **Exploratory Data Analysis (EDA)** on a retail sal
 
 ---
 
-## 🛠️ Tools & Concepts Used
+##  Tools & Concepts Used
 
 | Tool / Concept | Usage |
 |---|---|
@@ -96,14 +96,4 @@ SELECT
 FROM sales_data;
 ```
 
----
 
-
-
-- 🐙 GitHub: [@fattah-canvas](https://github.com/fattah-canvas)
-
----
-
-## 📝 License
-
-This project is for portfolio and educational purposes.
